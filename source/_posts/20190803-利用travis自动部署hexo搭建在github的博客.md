@@ -47,6 +47,11 @@ $ travis login --auto
 ---
 
 
+## 优化 使用gulp 压缩
+- [gulp 4的坑](https://blog.csdn.net/edc3001/article/details/86078572)
+
+
+
 - 参考: 
     - https://blog.csdn.net/qq_23079443/article/details/79015225
     - https://blog.i1hao.com/2018/09/01/hexo-and-githubpages-best-practices/

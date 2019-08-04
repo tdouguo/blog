@@ -16,7 +16,7 @@ install:
 
 script:
   - hexo clean  #清除
-  - hexo g && gulp  #生成 暂时不压缩
+  - hexo g #&& gulp  #生成 暂时不压缩
 
 after_script:
   - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
@@ -30,6 +30,7 @@ after_script:
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
   - git push --force --quiet "https://${GITHUB_TOKEN}@${GH_REF}" master:gh-pages  #Travis_Token是在Travis中配置环境变量的名称
+  - git push --force --quiet "https://vita2333:${CODING_TOKEN}@${CO_REF}" master:master #如果部署到coding上，这里的用户名也要修改
 
 branches:
   only:
