@@ -10,15 +10,15 @@ cache:
 
 before_install:
   - export TZ='Asia/Shanghai' # 更改时区
-  - npm install -g gulp
+  # - npm install -g gulp  # 初次或删除缓存时取消注释
 
 install:
   - npm install  #安装hexo及插件
 
 script:
   - hexo clean  #清除
-  - hexo g 
-  #- hexo g && gulp  #生成 暂时不压缩
+  #- hexo g 
+  - hexo g && gulp  #生成 暂时不压缩
 
 after_script:
   - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
@@ -42,7 +42,7 @@ branches:
  #global: 
    # https://travis-ci.com/  setting 中已配置
    # - GH_REF: github.com/Kylin-Studio/kylin.app.git #配置github地址，注意是https://后的部分 
-   # - CO_REF: git@git.dev.tencent.com:Mr-Kevin/kylin-app.git #配置coding地址（可选）
+   # - CO_REF: git.dev.tencent.com/Mr-Kevin/kylin.app.git #配置coding地址（可选）
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
