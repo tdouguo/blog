@@ -40,12 +40,11 @@ $ travis login --auto
 ```
 
 - A2: 去 travis 授权 
-    1. 登录官网  https://www.travis-ci.org/
+    1. 登录官网  https://www.travis-ci.com/
     2. github 登录自动关联
     3. 重试即可成功
 
 ---
-
 
 
 - 参考: 
