@@ -16,7 +16,8 @@ install:
 
 script:
   - hexo clean  #清除
-  - hexo g && gulp  #生成
+  #- hexo g && gulp  #生成 暂时不压缩
+  - hexo g
 
 after_script:
   - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
