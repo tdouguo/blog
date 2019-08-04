@@ -49,7 +49,9 @@ $ travis login --auto
 
 
 - 参考: 
-    - [部署成功方式-手把手教你使用Travis CI自动部署你的Hexo博客到Github上](https://blog.csdn.net/woblog/article/details/51319364)
+    - https://blog.csdn.net/qq_23079443/article/details/79015225
+    - https://blog.i1hao.com/2018/09/01/hexo-and-githubpages-best-practices/
+    - [手把手教你使用Travis CI自动部署你的Hexo博客到Github上](https://blog.csdn.net/woblog/article/details/51319364)
     - [通过Travis来自动构建博客](https://www.jianshu.com/p/38ee582bd0ea)
     - [手把手教从零开始在GitHub上使用Hexo搭建博客教程(四)-使用Travis自动部署Hexo(1)](https://www.jianshu.com/p/7f05b452fd3a)
     - [手把手教从零开始在GitHub上使用Hexo搭建博客教程(四)-使用Travis自动部署Hexo(2)](https://www.jianshu.com/p/fff7b3384f46)
