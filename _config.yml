@@ -64,6 +64,8 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: replica
+Plugins:
+  - hexo-generator-cname
 
 # Google Analytics
 ga: # GA code UA-XXXXXXXX-X
