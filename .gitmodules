@@ -1,0 +1,3 @@
+[submodule "themes/replica"]
+	path = themes/replica
+	url = https://github.com/Kylin-Studio/hexo-theme-replica.git
