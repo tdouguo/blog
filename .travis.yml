@@ -14,8 +14,6 @@ before_install:
 
 install:
   - npm install  #安装hexo及插件
-  - cd themes/replica
-  - git pull
 
 script:
   - git submodule update --init --recursive
