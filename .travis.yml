@@ -1,8 +1,8 @@
 
 language: node_js  #设置语言
 
-node_js: stable  #设置相应的版本
-
+node_js: #stable  #设置相应的版本
+  - '6'
 cache:
     apt: true
     directories:
@@ -18,8 +18,8 @@ install:
 script:
   - git submodule update --init --recursive
   - hexo clean  #清除
-  - hexo g 
-  #- hexo g && gulp  #生成 暂时不压缩
+  #- hexo g 
+  - hexo g && gulp  #生成 暂时不压缩
 
 after_script:
   - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
