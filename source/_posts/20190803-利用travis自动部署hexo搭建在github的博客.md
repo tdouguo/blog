@@ -44,6 +44,17 @@ $ travis login --auto
     2. github 登录自动关联
     3. 重试即可成功
 
+- A3: 打开后始终 404 没有样式 ,怀疑主题问题 在 travis 中 主题并没有pull,我定制化更改主题一些内容还无法使用源主题,所以我基于git 子模块方式去实现
+    1. fork 源项目
+    2. 新建一个分支 更改并push
+    3. 在本机 git submodule init
+    4. git submodule add https://github.com/Kylin-Studio/hexo-theme-replica.git /theme/replica
+        - 注意 此处使用 https 形式 并且主题是开放开源的, 如私有自查解决方案
+    5. git add .gitmodules
+    6. git commit -m "add submodules"
+    7. git push  自动打包成功
+
+
 ---
 
 
