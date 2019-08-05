@@ -54,6 +54,7 @@ $ travis login --auto
     6. git commit -m "add submodules"
     7. git push  自动打包成功
 
+- A4: travis 部署gulp 无法压缩
 
 ---
 
