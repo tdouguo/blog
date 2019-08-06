@@ -4,8 +4,9 @@
 
 # Site
 title: My's Blog
-description: 
-author: guojinming
+description: A potato-loving programmer who accumulates his own knowledge, builds his own knowledge systems, and shares technical blog posts.
+nickname: TDou
+author: GuoJinMing
 language: zh-CN
 timezone: Asia/Shanghai
 favicon: https://assets-cdn.github.com/favicon.ico
