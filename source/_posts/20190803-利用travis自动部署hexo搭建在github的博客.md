@@ -65,6 +65,7 @@ $ travis login --auto
 
 
 - 参考: 
+    - [github coding 同时部署] (https://www.jianshu.com/p/a530cd48a059)
     - https://blog.csdn.net/qq_23079443/article/details/79015225
     - https://blog.i1hao.com/2018/09/01/hexo-and-githubpages-best-practices/
     - [手把手教你使用Travis CI自动部署你的Hexo博客到Github上](https://blog.csdn.net/woblog/article/details/51319364)
