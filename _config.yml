@@ -106,5 +106,5 @@ flagcounter_img_src: https://s01.flagcounter.com/count/UVrV/bg_FFFFFF/txt_000000
 
 deploy:
   type: git
-  repo: git@github.com:Kylin-Studio/kylin.app.git
+  repo: git@github.com:Kylin-Technologies/kylin.app.git
   branch: gh-pages
