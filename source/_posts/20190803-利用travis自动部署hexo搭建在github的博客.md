@@ -56,8 +56,13 @@ $ travis login --auto
 
 - A4: travis 部署gulp 无法压缩
     ```
+    
     before_install:
     # - npm install -g gulp  # 初次或删除缓存时取消注释
+
+    $ npm install gulp -g
+    $ npm install gulp-minify-css gulp-uglify gulp-htmlmin gulp-htmlclean gulp --save
+
     ```
 
 ---
@@ -69,6 +74,7 @@ $ travis login --auto
 
 
 - 参考: 
+    - [Hexo+Next主题搭建博客安装美化及SEO优化指南](https://www.imooc.com/article/45514)
     - [github coding 同时部署] (https://www.jianshu.com/p/a530cd48a059)
     - https://blog.csdn.net/qq_23079443/article/details/79015225
     - https://blog.i1hao.com/2018/09/01/hexo-and-githubpages-best-practices/
