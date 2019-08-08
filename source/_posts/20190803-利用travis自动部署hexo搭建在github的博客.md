@@ -55,6 +55,10 @@ $ travis login --auto
     7. git push  自动打包成功
 
 - A4: travis 部署gulp 无法压缩
+    ```
+    before_install:
+    # - npm install -g gulp  # 初次或删除缓存时取消注释
+    ```
 
 ---
 
