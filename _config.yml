@@ -12,7 +12,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://kylin.app
+url: https://tdou.cc
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -87,9 +87,9 @@ disqus: # DISQUS ID
 location: Chine, BeJing
 email: kevin@kylin.app
 
-avatar: https://kylin.app/images/avatar.jpg
+avatar: https://tdou.cc/images/avatar.jpg
 social:
-  github: https://github.com/gjmvvv
+  github: https://github.com/CnTDou
   weibo: https://www.weibo.com/5730394625
   csdn: https://me.csdn.net/gjmvvv
   cnblogs: http://www.cnblogs.com/GJM6/
@@ -110,5 +110,5 @@ flagcounter_img_src: https://s01.flagcounter.com/count/UVrV/bg_FFFFFF/txt_000000
 
 deploy:
   type: git
-  repo: git@github.com:Kylin-Technologies/kylin.app.git
+  repo: git@github.com:CnTDou/kylin.app.git
   branch: gh-pages
