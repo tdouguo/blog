@@ -3,13 +3,13 @@
 
 - 待处理
     - [ ] 百度统计
-    - [ ] Disqus
     - [ ] Google Analytics
 
 # blog log
 
 - 2019-08-11
     - Google Custom Search Engine^1
+    - [Disqus](https://www.jianshu.com/p/d68de067ea74?open_source=weibo_search) 
 
 - 2019-08-08
     - travis 部署使用gulp压缩
