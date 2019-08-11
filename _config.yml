@@ -44,7 +44,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: TDOU.CC
+default_category: KYLIN
 category_map:
 tag_map:
 
@@ -87,9 +87,9 @@ disqus: # DISQUS ID
 location: Chine, BeJing
 email: kevin@kylin.app
 
-avatar: https://toud.cc/images/avatar.jpg
+avatar: https://tdou.cc/images/avatar.jpg
 social:
-  github: https://github.com/gjmvvv
+  github: https://github.com/CnTDou
   weibo: https://www.weibo.com/5730394625
   csdn: https://me.csdn.net/gjmvvv
   cnblogs: http://www.cnblogs.com/GJM6/
@@ -110,5 +110,5 @@ flagcounter_img_src: https://s01.flagcounter.com/count/UVrV/bg_FFFFFF/txt_000000
 
 deploy:
   type: git
-  repo: git@github.com:CnTDou/tdou.cc.git
+  repo: git@github.com:CnTDou/kylin.app.git
   branch: gh-pages
