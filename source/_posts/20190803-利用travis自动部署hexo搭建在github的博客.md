@@ -6,7 +6,7 @@ tags:
     - hexo
     - hexo部署
 categories:
-    - 建站教程
+    - 解决方案
 ---
 
 
