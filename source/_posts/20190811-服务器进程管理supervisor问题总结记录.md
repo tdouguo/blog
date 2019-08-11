@@ -4,8 +4,9 @@ date: 2019-08-11 16:49:56
 tags:
     - supervisor
     - command
-categories:
     - 服务器
+categories:
+    - 解决方案
 ---
 
 

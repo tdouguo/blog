@@ -4,13 +4,13 @@ date: 2019-08-11 16:32:08
 tags:
     - docker
     - wordpress
-    - 解决方案
+    - 服务器
 categories:
-    - 建站教程
+    - 解决方案
 ---
 
 
-# A1: [Wordpress] 仪表盘 - 设置更改固定连接后无法访问了 (更改未进行备案域名/未进行Nginx反向代理)
+## Wordpress] 仪表盘 - 设置更改固定连接后无法访问了 (更改未进行备案域名/未进行Nginx反向代理)
 - 问题产生原因: 如果更改为域名(例如未进行备案域名) 因域名无法直接访问, 模拟请求过程
     1. PC电脑浏览器输入 IP:端口  
     2. Wordpress 收到请求后自动重定向设置的域名, 这时候域名无解析/未备案导致无法访问所以界面显示 404 或其他界面.
@@ -57,6 +57,56 @@ categories:
 
                 $ UPDATE wp_comments SET comment_content = replace(comment_content, 'http://旧域名', 'http://新域名') ;
                 $ UPDATE wp_comments SET comment_author_url = replace(comment_author_url, 'http://旧域名', 'http://新域名') ;
+            ```
 
 
- 
+---
+
+## 运行后wordpress mysql链接失败 
+
+- Q1 问题描述:
+
+启动时IP使用127.0.0.1 / localhost / 0.0.0.0 管理界面初始化时访问失败
+Docker-Wordpress连接 Docker-mysql
+
+
+- A1 解决方案
+
+创建一个 docker新网络 查看docker IP后重新启动
+
+1. 添加一个 docker network 
+    ```
+    $ docker network create docker-mysql-net
+    ```
+2. 查看网络IP ifconfig 并记住 尝试使用新建的ip去连接
+
+
+
+- 例如: 重新启动wordpress
+
+``` docker
+$ WORDPRESS_DB_HOST=172.18.0.1:3306 -e WORDPRESS_DB_USER=root -e WORDPRESS_DB_PASSWORD=123456-e WORDPRESS_DB_NAME=wordpress-p 8050:80 -d hub.c.163.com/library/wordpress  
+注意其他配置都和之前运行一样 但是WORDPRESS_DB_HOST使用ifconfig查看的docker IP 启动
+```
+
+
+上述尝试之后还是无法解决排除问题
+
+尝试 root 连接
+    ```
+        mysql -h0.0.0.0 -uroot -p密码
+    ```
+
+root可连接,但是自己新建的账号无法连接
+
+- A2 解决方案
+请对用户授权 %因权限不足,请授权, docker是归属一个单独的虚拟环境中网络Ip非127.0.0.1 localhost 所以需要授权%
+
+1. root 连接进入
+    ```
+        mysql -h0.0.0.0 -uroot -p 密码
+    ```
+2. 授权
+    ```
+        grant all privileges on `数据库名称`.* to '用户名称'@'%' ;
+    ```
