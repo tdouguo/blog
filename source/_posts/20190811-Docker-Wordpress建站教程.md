@@ -8,6 +8,7 @@ categories:
     - 建站教程
 ---
 
+
 - 运行环境
     - Docker
     - Docker-Mysql
@@ -16,7 +17,6 @@ categories:
 
 ## Docker 常用名称
 - 详情查看Docker 常用命令一篇
-
 
 
 ## Docker-Mysql
@@ -32,7 +32,6 @@ categories:
     - WORDPRESS_DB_USER：wordpress 连接数据库的用户 
     - WORDPRESS_DB_PASSWORD：wordpress 连接数据库的密码
     - WORDPRESS_DB_NAME：wordpress 数据库的名称默认为：wordpress
- 
 
 - 安装命令
     > docker pull hub.c.163.com/library/wordpress:latest
@@ -46,11 +45,10 @@ categories:
 
     注意 此处的WORDPRESS_DB_HOST地址为 服务器的内外地址 不可写 127.0.0.1 0.0.0.0 localhost  因为这地址是代表在docker内部的 运行一个镜像 内部所有的环境都是独立的 可以看成一个服务器 运行docker镜像后 这个docker镜像的所有都是独立的  
     ```
-    
 
+- 更新域名
+    - 查看 [Docker-Wordpress建站问题总结记录](https://tdou.cc/)@{docker域名/IP更新}
 
-## 更新域名
-    - 查看Docker-Wordpress建站问题总结记录
 
 ### 参考
 - https://blog.51cto.com/14314637/2406710?source=dra
