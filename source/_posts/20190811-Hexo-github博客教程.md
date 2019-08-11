@@ -68,6 +68,18 @@ hexo d          # 部署博客到Github等
 
 ### 其他
 
+- 功能:
+    - [gulp压缩优化]()
+    - [travis自动部署]()
+    - [Disqus评论]()
+    - [google&百度收录]()
+        - [百度资源搜索平台](https://ziyuan.baidu.com)
+        - [google search console](https://search.google.com/)
+    - [Google Analytics and 百度统计]()
+        - [百度统计](https://tongji.baidu.com)
+        - [Google Analytics](https://analytics.withgoogle.com)
+
+
 - FAQ
     - Q: not code-js
         ```
