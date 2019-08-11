@@ -80,7 +80,7 @@ marked:
   smartLists: true
   smartypants: true
 
-gcs: # GOOGLE CUSTOM SEARCH
+gcs: 013515171728354998330:ocbdx7u5sus # GOOGLE CUSTOM SEARCH
 baidutongji: # BAIDU TONGJI CODE
 disqus: # DISQUS ID
 
