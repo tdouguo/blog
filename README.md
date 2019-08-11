@@ -2,9 +2,14 @@
 
 
 - 待处理
-    - [ ] 评论相关、埋点等插件相关
+    - [ ] 百度统计
+    - [ ] Disqus
+    - [ ] Google Analytics
 
 # blog log
+
+- 2019-08-11
+    - Google Custom Search Engine^1
 
 - 2019-08-08
     - travis 部署使用gulp压缩
