@@ -87,6 +87,8 @@ baidu_push: true
 
 location: Beijing, Chine 
 email: kevin@kylin.app
+baidusitemap: 
+  path: baidusitemap.xml
 
 avatar: https://tdou.cc/images/avatar.jpg
 social:
