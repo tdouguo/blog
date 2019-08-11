@@ -68,7 +68,7 @@ Plugins:
   - hexo-generator-cname
 
 # Google Analytics
-ga: # GA code UA-XXXXXXXX-X
+ga: UA-145423637-1 # GA code UA-XXXXXXXX-X
 
 #marked setting for markdown
 marked:
