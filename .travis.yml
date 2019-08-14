@@ -23,7 +23,6 @@ install:
 script:
   - git submodule update --init --recursive
   - hexo clean  #清除
-  #- hexo g 
   - hexo g && gulp  #生成 暂时不压缩
 
 after_script:
@@ -38,7 +37,7 @@ after_script:
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
   - git push --force --quiet "https://${GITHUB_TOKEN}@${GH_REF}" master:gh-pages  #Travis_Token是在Travis中配置环境变量的名称
-  - git push --force --quiet "https://mr-kevin:${CODING_TOKEN}@${CO_REF}" master:master #如果部署到coding上，这里的用户名也要修改
+  - git push --force --quiet "https://${CODING_UNAME}:${CODING_TOKEN}@${CO_REF}" master:master #如果部署到coding上，这里的用户名也要修改
 
 branches:
   only:
@@ -47,7 +46,7 @@ branches:
 #env:
  #global: 
    # https://travis-ci.com/  setting 中已配置
-   # - GH_REF: github.com/Kylin-Studio/kylin.app.git #配置github地址，注意是https://后的部分 
+   # - GH_REF: github.com/CnTDou/tdou.cc.git #配置github地址，注意是https://后的部分 
    # - CO_REF: git.dev.tencent.com/Mr-Kevin/kylin.app.git #配置coding地址（可选）
 
 # configure notifications (email, IRC, campfire etc)
