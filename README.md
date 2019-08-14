@@ -2,12 +2,12 @@
 
 
 - 待处理
-    - [ ] 百度统计
-    - [ ] Google Analytics
+    - [ ] [百度收录](https://blog.csdn.net/qq_32454537/article/details/79482914)
 
 # blog log
 
 - 2019-08-11
+    - [x] 百度统计 & Google Analytics
     - Google Custom Search Engine^1
     - [Disqus](https://www.jianshu.com/p/d68de067ea74?open_source=weibo_search) 
 
