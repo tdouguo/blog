@@ -17,8 +17,8 @@ install:
   # - cd node_modules/hexo-generator-baidu-sitemap/
   # - npm install
   # - cd ../../
-  - npm install hexo-generator-sitemap --save
-  - npm install hexo-generator-baidu-sitemap --save
+  # - npm install hexo-generator-sitemap --save
+  # - npm install hexo-generator-baidu-sitemap --save
 
 script:
   - git submodule update --init --recursive
