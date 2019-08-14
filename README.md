@@ -7,7 +7,7 @@
 # blog log
 
 - 2019-08-11
-    - [x] 百度统计 & Google Analytics
+    - 百度统计 & Google Analytics
     - Google Custom Search Engine^1
     - [Disqus](https://www.jianshu.com/p/d68de067ea74?open_source=weibo_search) 
 
