@@ -102,6 +102,15 @@ search:
 local_search:
   enable: true
 
+# 打赏
+donate: 
+  enable: true
+  message: 欣赏此文？求鼓励，求支持！
+  btc: 3JfBFrELvdXNVVhT2MXvkZNsQAuy12WfDR
+  btc_url: /images/btc.jpg
+  ali_url: /images/pay_ali.jpg
+  wechat_url: /images/pay_wx.jpg
+
 avatar: https://tdou.cc/images/avatar.jpg
 social:
   github: https://github.com/CnTDou
