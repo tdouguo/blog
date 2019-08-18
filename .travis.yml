@@ -32,7 +32,7 @@ after_script:
   - cd ../
   - mv .deploy_git/.git/ ./public/   # 这一步之前的操作是为了保留master分支的提交记录，不然每次git init的话只有1条commit
   - cd ./public
-  - git config user.name "gjm@travis"  #修改name
+  - git config user.name "tdou.cc@travis"  #修改name
   - git config user.email "kevin@kylin.app"  #修改email
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
