@@ -15,7 +15,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://tdou.cc
 root: /
-permalink: :lang/:id/
+permalink: :lang/:title/
 permalink_defaults:
   lang: cn
 

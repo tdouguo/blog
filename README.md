@@ -7,7 +7,7 @@
 # blog log
 
 - 2019-8.19
-    - 添加搜索生成插件
+    - 添加搜索生成插件 [参考](https://www.itfanr.cc/2017/10/27/add-search-function-to-hexo-blog/)
     - 整理项目结构区分多语言版本
 
 - 2019-08-11
