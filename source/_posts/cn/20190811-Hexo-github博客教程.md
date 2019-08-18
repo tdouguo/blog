@@ -1,5 +1,6 @@
 ---
 title: Hexo+github博客教程
+lang: cn
 date: 2019-08-11 16:27:45
 tags:
     - hexo

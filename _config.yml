@@ -10,12 +10,15 @@ language: zh-CN
 timezone: Asia/Shanghai
 favicon: https://assets-cdn.github.com/favicon.ico
 
+# 更改链接结果形式 https://hexo.io/zh-cn/docs/permalinks
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://tdou.cc
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :lang/:id/
 permalink_defaults:
+  lang: cn
+
 
 # Directory
 source_dir: source
@@ -28,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :year:month:day-:title.md # File name of new posts
+new_post_name: :lang/:year:month:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -90,6 +93,14 @@ email: kevin@kylin.app
 baidusitemap: 
 path: baidusitemap.xml
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+local_search:
+  enable: true
 
 avatar: https://tdou.cc/images/avatar.jpg
 social:

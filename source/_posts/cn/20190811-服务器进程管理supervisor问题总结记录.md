@@ -1,5 +1,6 @@
 ---
 title: 服务器进程管理supervisor问题总结记录
+lang: cn
 date: 2019-08-11 16:49:56
 tags:
     - supervisor

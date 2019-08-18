@@ -1,5 +1,6 @@
 ---
 title: 'C# async、await 详解'
+lang: cn
 date: 2019-08-18 21:03:59
 tags:
     - C#-async

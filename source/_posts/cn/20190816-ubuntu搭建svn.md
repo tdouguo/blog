@@ -1,5 +1,6 @@
 ---
 title: ubuntu搭建svn
+lang: cn
 date: 2019-08-16 14:06:42
 tags:
 categories:

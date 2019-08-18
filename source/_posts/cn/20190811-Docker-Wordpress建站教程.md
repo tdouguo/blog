@@ -1,5 +1,6 @@
 ---
 title: Docker+Wordpress建站教程
+lang: cn
 date: 2019-08-11 16:17:46
 tags:
     - docker

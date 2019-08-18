@@ -6,6 +6,10 @@
 
 # blog log
 
+- 2019-8.19
+    - 添加搜索生成插件
+    - 整理项目结构区分多语言版本
+
 - 2019-08-11
     - 百度统计 & Google Analytics
     - Google Custom Search Engine^1

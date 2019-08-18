@@ -1,6 +1,16 @@
 # robots.txt generated at http://tool.chinaz.com/robots/ 
 User-agent: *
-Disallow: 
-Sitemap: https://tdou.cc/sitemap.xml
-Sitemap: https://tdou.cc/baidusitemap.xml
-Sitemap: https://tdou.cc/atom.xml
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /cn/
+Allow: /en/ 
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+
+Sitemap: https://cqwdc.com/atom.xml
+Sitemap: https://cqwdc.com/sitemap.xml
+Sitemap: http://cqwdc.com/baidusitemap.xml
