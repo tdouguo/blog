@@ -5,6 +5,9 @@
     - [ ] [百度收录](https://blog.csdn.net/qq_32454537/article/details/79482914)
 
 # blog log
+- 2019-9006
+    - google adscene 正式使用
+    - 基于picgo 七牛图床实现图片管理 [参考](https://github.com/Molunerfinn/PicGo/releases)
 
 - 2019-8.19
     - 添加搜索生成插件 [参考](https://www.itfanr.cc/2017/10/27/add-search-function-to-hexo-blog/)
