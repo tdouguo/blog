@@ -13,6 +13,6 @@ Disallow: /images/
 Disallow: /img/
 
 Sitemap: https://tdou.cc/atom.xml
-Sitemap: https://tdou.cc/itemap.xml
 Sitemap: https://tdou.cc/baidusitemap.xml
 Sitemap: https://tdou.cc/search.xml
+Sitemap: https://tdou.cc/sitemap.xml

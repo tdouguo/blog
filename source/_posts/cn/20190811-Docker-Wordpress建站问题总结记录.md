@@ -5,9 +5,9 @@ date: 2019-08-11 16:32:08
 tags:
     - docker
     - wordpress
-    - 服务器
-categories:
     - 解决方案
+categories:
+    - docker
 ---
 
 
