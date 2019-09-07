@@ -10,7 +10,9 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /images/
+Disallow: /img/
 
-Sitemap: https://cqwdc.com/atom.xml
-Sitemap: https://cqwdc.com/sitemap.xml
-Sitemap: http://cqwdc.com/baidusitemap.xml
+Sitemap: https://tdou.cc/atom.xml
+Sitemap: https://tdou.cc/itemap.xml
+Sitemap: https://tdou.cc/baidusitemap.xml
+Sitemap: https://tdou.cc/search.xml
