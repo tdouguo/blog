@@ -12,7 +12,7 @@ categories:
 
 
 [TOP]
-- [Shader-01-启蒙](https://tdou.cc/cn/Shader-01-启蒙/)
+- [Shader-01-启蒙](https://tdou.cc/cn/Shader-01/)
 
 
 
