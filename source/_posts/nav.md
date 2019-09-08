@@ -1,6 +1,5 @@
 ---
 title: nav
-date: 2019-09-08 01:24:24
 tags:
 categories:
 ---
