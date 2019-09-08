@@ -15,9 +15,33 @@ categories:
 
 # QFramework 简介
 
-...
+
+**QFramework 内置模块如下:**
+* 1.Core
+* 2.ResKit
+* 3.UIKit
+* 4.ScriptCollection
+* 5.ShaderLib
+* 6.EditorToolKit
+        
+
+**下载:**
+
+* **[QF.Package 下载](http://master.liangxiegame.com/qf/intro)**: 只包含模块上传下载功能，不想使用 QF 内置模块的童鞋可以下载此包（内部使用了 UniRx 和 JsonDotNet,如果冲突,请删除项目内的)
+
+* **[QFramework V0.1.x 下载](http://master.liangxiegame.com/qf/intro)**: 新版本的 QFramework，命名空间风格为 QF，除了命名空间 API 均兼容 旧版本 (如果是从 v0.0.x 升级到此版本，需要手动将原工程的 QFramework/Framework 目录删除)
+
+* **[QFramework v0.0.x 下载](http://master.liangxiegame.com/qf/intro)**: 旧版本的 QFramework，命名空间为 QFramework
 
 
+**交流、教程:**
+* **[文档](http://master.liangxiegame.com/qf/community)**
+* **[社区](http://master.liangxiegame.com/qf/community)**
+* **[加入 QQ 群:623597263](//shang.qq.com/wpa/qunwpa?idkey=706b8eef0fff3fe4be9ce27c8702ad7d8cc1bceabe3b7c0430ec9559b3a9ce66)**
+* **[Github](https://github.com/liangxiegame/QFramework)**  
+
+
+--- 
 
 # QFramework 使用指南 (2020) ResKit 系列篇
 
