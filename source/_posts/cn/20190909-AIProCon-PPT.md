@@ -8,6 +8,7 @@ categories:
 	- AIProCon
 ---
 
+Github 链接: https://github.com/AIProCon/AIProCon
 
 官网地址: http://aiprocon.csdn.net
 
