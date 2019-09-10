@@ -8,7 +8,6 @@ categories:
 	- AIProCon
 ---
 
-Github 链接: https://github.com/AIProCon/AIProCon
 
 官网地址: http://aiprocon.csdn.net
 
@@ -26,9 +25,13 @@ Github 链接: https://github.com/AIProCon/AIProCon
 提取码：b0hu
 - [AIProCon-PPT] https://pan.baidu.com/s/16PbWiLY14SDsTfmB2x10mQ 
 提取码：jg03
- 
 
- 
+
+## 知识图谱论坛
+- [《生活服务领域知识图谱的构建及应用》](https://download.csdn.net/meeting/speech_preview/780)
+	> 张富峥 美团点评NLP中心，知识图谱团队负责人
+	- [官方PPT下载链接](https://meet-download.csdn.net/speech/speech_upload_file/2019/09/09/dfa4095df65751d06c5192722ac37c3f.pdf)
+	- [Github-PPT](https://github.com/AIProCon/AIProCon/blob/master/PPT/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E8%AE%BA%E5%9D%9B/%E3%80%8A%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E9%A2%86%E5%9F%9F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%9A%84%E6%9E%84%E5%BB%BA%E5%8F%8A%E5%BA%94%E7%94%A8%E3%80%8B%E5%BC%A0%E5%AF%8C%E5%B3%A5.pdf)
 
 
 ## 自然语言处理论坛
@@ -93,6 +96,14 @@ Github 链接: https://github.com/AIProCon/AIProCon
 
 ## 计算机视觉论坛
 
+- [《互联网视频基础技术探索及其应用》](https://download.csdn.net/meeting/speech_preview/779)
+	> 文石磊 百度视觉技术部主任架构师，视频基础技术团队技术负责人
+	- [官方PPT下载链接](https://meet-download.csdn.net/speech/speech_upload_file/2019/09/09/5e2be7b516218a4f1e6a0aaf9917c8a5.pdf)
+	- [Github-PPT](https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E5%9D%9B/%E3%80%8A%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E3%80%8B%E6%96%87%E7%9F%B3%E7%A3%8A.pdf)
+
+
+<p />
+
 - [《高效轻量级深度模型的研究与实践》](https://download.csdn.net/meeting/speech_preview/771)
 	> 张祥雨 旷视研究院主任研究员,基础模型组负责人
 	- [官方PPT下载链接](https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/bffaacc1549fd44216476df6b2939612.pdf)
@@ -139,6 +150,15 @@ Github 链接: https://github.com/AIProCon/AIProCon
 	- [Github-PPT](https://github.com/AIProCon/AIProCon/blob/master/PPT/5G%E9%A9%B1%E5%8A%A8AIoT%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A5G%E6%97%B6%E4%BB%A3%E7%9A%84%E7%89%A9%E8%81%94%E7%BD%91%E6%9C%9F%E5%BE%85%E9%87%8D%E7%94%9F%E3%80%8B%E5%AD%99%E6%9D%BE%E6%9E%97.pdf)
 
 
+
+---
+更新记录:
+	
+- 2019.9.9 : 基础的官网ppt
+
+- 2019.9.10: 
+	- 知识图谱论坛-《生活服务领域知识图谱的构建及应用》张富峥
+	- 计算机视觉论坛-《互联网视频基础技术探索及其应用》文石磊.pdf
 
 --- 
 
