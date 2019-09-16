@@ -1,12 +1,13 @@
 ---
 title: Hexo+github博客教程
 lang: cn
-date: 2019-08-11 16:27:45
 tags:
-    - hexo
-    - github
+  - hexo
+  - github
 categories:
-    - 建站教程
+  - 建站教程
+abbrlink: 844841121
+date: 2019-08-11 16:27:45
 ---
 
 

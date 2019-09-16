@@ -15,9 +15,13 @@ favicon: https://assets-cdn.github.com/favicon.ico
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://tdou.cc
 root: /
-permalink: :lang/:title/
+permalink: :abbrlink.html
 permalink_defaults:
   lang: cn
+  urlname: index
+abbrlink:
+  alg: crc32  # 算法：crc16(default) and crc32
+  rep: dec    # 进制：dec(default) and hex
 
 
 # Directory
@@ -49,8 +53,15 @@ highlight:
 # Category & Tag
 default_category: TDOU.CC
 category_map:
+  编程: programming
+  生活: life
+  其他: other
 tag_map:
-
+  编程: programming
+  生活: life
+  其他: other
+  
+  
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in

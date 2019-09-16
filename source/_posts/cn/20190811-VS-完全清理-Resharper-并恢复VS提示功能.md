@@ -1,12 +1,13 @@
 ---
 title: VS 完全清理 Resharper 并恢复VS提示功能
 lang: cn
-date: 2019-08-11 16:57:44
 tags:
-    - Visual Studio
-    - resharper
+  - Visual Studio
+  - resharper
 categories:
-    - 解决方案
+  - 解决方案
+abbrlink: 661710306
+date: 2019-08-11 16:57:44
 ---
 
 

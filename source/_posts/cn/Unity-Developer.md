@@ -1,9 +1,11 @@
 ---
-title: Unity Developer
-lang: cn 
-tags:
+title: Unity 开发者技术栈总结
+lang: cn
+urlname: u3d-developer
 categories:
-	- Unity
+  - Unity
+abbrlink: 284282615
+tags:
 ---
 
 - 3D图形学、渲染

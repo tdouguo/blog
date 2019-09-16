@@ -1,21 +1,23 @@
 ---
-title: 建站笔记-总览 | github page 和coding部署博客、hexo、travis-co、seo、评论、搜索、统计、广告
+title: Hexo博客 | github page&coding部署、hexo、travis-co、seo、评论、搜索、统计、广告
 lang: cn
+urlname: jianzhan
 tags:
-    - 建站记录
-    - hexo
-    - hexo-replica
-    - travis-ci
-    - seo
-    - disqus
-    - 评论
-    - google-search
-    - 百度统计
-    - Google-Analytics
-    - FlagCounter
-    - Google-AdScene
+  - 建站记录
+  - hexo
+  - hexo-replica
+  - travis-ci
+  - seo
+  - disqus
+  - 评论
+  - google-search
+  - 百度统计
+  - Google-Analytics
+  - FlagCounter
+  - Google-AdScene
 categories:
-    - 建站记录系列
+  - 建站记录系列
+abbrlink: 2923196798
 ---
 
 持续更新中 . . .
@@ -35,12 +37,67 @@ categories:
 - [x] [统计] [百度统计](https://tongji.baidu.com/)、[Google Analytics](https://google.com/analytics/)、[访客统计FlagCounter](http://www.flagcounter.com/) [教程](https://blog.csdn.net/kl28978113/article/details/79500217)
 - [x] [站点广告] [google adscene](https://www.google.com/adsense/)
 
-
+- [ ] [SEO] 文章URL优化
 - [ ] [SEO] 关键字优化,外链
 
 
 
-# 计划
+# [SEO] 文章URL优化
+
+- 文章URL优化策略（一）：自定义id属性
+
+1.为每篇文章Front-matter添加id属性，作为文章URL，确保id属性的值满足以上条件。
+
+2.编辑站点配置文件：
+```
+# permalink: :year/:month/:day/:title.html  # 默认永久链接冗长，title中存在中文字符。
+permalink: :id.html # 尽量短，层次少，全小写，中划线连字，具有描述性，包含关键词
+```
+
+- 文章URL优化策略（二）：abbrlink链接唯一化
+
+1.安装abbrlink插件：
+
+```
+$ npm install hexo-abbrlink --save  
+```
+
+2.编辑站点配置文件：
+```
+permalink: :abbrlink.html   # 生成唯一链接
+abbrlink:
+  alg: crc32  # 算法：crc16(default) and crc32
+  rep: dec    # 进制：dec(default) and hex
+```
+
+标签&分类URL优化
+
+我们在对文章分类或添加标签时，难免会用到中文或其他字符，而我们又在尽量避免中文字符出现在URL中，所以我们需要对中文分类&标签进行映射操作。
+
+### 编辑站点配置文件：
+
+- 分类名映射
+    ```
+    category_map:  
+    生活: life
+    其他: other
+    ```
+
+- 标签名映射
+    ```
+    tag_map:
+    生活: life
+    其他: other
+    ```
+
+- [](https://www.cnblogs.com/liziczh/p/9318665.html)
+
+
+
+
+---
+
+# 待实现计划
 
 - v0.0.1 目标: 实现 Hexo主题+GitHub部署
 - v0.0.2 目标: 实现 Travis-ci 持续集成

@@ -1,13 +1,14 @@
 ---
 title: Docker+Wordpress建站问题总结记录
 lang: cn
-date: 2019-08-11 16:32:08
 tags:
-    - docker
-    - wordpress
-    - 解决方案
+  - docker
+  - wordpress
+  - 解决方案
 categories:
-    - docker
+  - docker
+abbrlink: 683599947
+date: 2019-08-11 16:32:08
 ---
 
 

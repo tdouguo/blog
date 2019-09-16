@@ -1,13 +1,14 @@
 ---
 title: 服务器进程管理supervisor问题总结记录
 lang: cn
-date: 2019-08-11 16:49:56
 tags:
-    - supervisor
-    - command
-    - 解决方案
+  - supervisor
+  - command
+  - 解决方案
 categories:
-    - 服务器
+  - 服务器
+abbrlink: 2813305416
+date: 2019-08-11 16:49:56
 ---
 
 

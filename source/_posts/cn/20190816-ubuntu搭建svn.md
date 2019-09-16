@@ -1,6 +1,7 @@
 ---
 title: ubuntu搭建svn
 lang: cn
+abbrlink: 566334650
 date: 2019-08-16 14:06:42
 tags:
 categories:

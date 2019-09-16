@@ -1,13 +1,14 @@
 ---
 title: 利用travis自动部署hexo搭建在github的博客
 lang: cn
-date: 2019-08-03 01:36:48
 tags:
-    - 建站教程
-    - hexo
-    - hexo部署
+  - 建站教程
+  - hexo
+  - hexo部署
 categories:
-    - 解决方案
+  - 解决方案
+abbrlink: 2695305694
+date: 2019-08-03 01:36:48
 ---
 
 

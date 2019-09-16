@@ -1,13 +1,14 @@
 ---
 title: 建站笔记-统计
 lang: cn
-date: 2019-09-08 19:54:25
 tags:
-    - 百度统计
-    - Google-Analytics
-    - FlagCounter
+  - 百度统计
+  - Google-Analytics
+  - FlagCounter
 categories:
-    - 建站记录系列
+  - 建站记录系列
+abbrlink: 1203137737
+date: 2019-09-08 19:54:25
 ---
 
 

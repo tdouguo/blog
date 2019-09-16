@@ -1,12 +1,13 @@
 ---
 title: 'C# async、await 详解'
 lang: cn
-date: 2019-08-18 21:03:59
 tags:
-    - C#-async
-    - C#-await
+  - 'C#-async'
+  - 'C#-await'
 categories:
-    - C#
+  - 'C#'
+abbrlink: 1654076298
+date: 2019-08-18 21:03:59
 ---
 
 
