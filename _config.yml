@@ -4,7 +4,7 @@
 
 # Site
 title: My's Blog
-description: A potato-loving programmer who accumulates his own knowledge, builds his own knowledge systems, and shares technical blog posts.
+description: 一个特别爱吃土豆的程序猿,博客积累自己的知识,建立自己的知识体系结构完善自我技术栈,并分享技术文章文章。
 author: TDou
 language: zh-CN
 timezone: Asia/Shanghai
@@ -15,7 +15,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://tdou.cc
 root: /
-permalink: :abbrlink.html
+permalink: :lang/:abbrlink.html
 permalink_defaults:
   lang: cn
   urlname: index
@@ -40,6 +40,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
+isplay_updated: true
 render_drafts: false
 post_asset_folder: false
 relative_link: false
