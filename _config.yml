@@ -4,7 +4,7 @@
 
 # Site
 title: My's Blog
-description: 一个特别爱吃土豆的程序猿,博客积累自己的知识,建立自己的知识体系结构完善自我技术栈,并分享技术文章文章。
+description: 一个特别爱吃土豆的程序猿,积累自己的知识,建立知识体系结构&完善自我技术栈,并分享技术文章文章。
 author: TDou
 language: zh-CN
 timezone: Asia/Shanghai
@@ -18,7 +18,8 @@ root: /
 permalink: :lang/:abbrlink.html
 permalink_defaults:
   lang: cn
-  urlname: index
+  iscopyright: true
+  comments: true
 abbrlink:
   alg: crc32  # 算法：crc16(default) and crc32
   rep: dec    # 进制：dec(default) and hex
@@ -57,6 +58,7 @@ category_map:
   编程: programming
   生活: life
   其他: other
+  搭建博客: blog
 tag_map:
   编程: programming
   生活: life

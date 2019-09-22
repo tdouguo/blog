@@ -1,7 +1,8 @@
 ---
-title: QFramework he-总览 | QF使用指南、QF.ResKit
+title: QFramework 总览 | QF使用指南、QF.ResKit
+iscopyright: true
+comments: true
 lang: cn
-urlname: qf-guide
 tags:
   - Unity
   - Framework
@@ -12,13 +13,8 @@ categories:
   - QFramework
 abbrlink: qframework
 date: 2019-09-08 23:01:18
-updated: 2019-09-22 23:43:59
-author: 凉鞋
+author: 凉鞋 | 凉鞋的笔记：liangxiegame.com
 ---
-
-
-
-# QFramework 简介
 
 
 **QFramework 内置模块如下:**
@@ -58,13 +54,3 @@ author: 凉鞋
 - [QFramework 使用指南 (2020) - Res Kit（6）ResLoader 的推荐用法](https://tdou.cc/cn/qf_reskit_06.html)
 - [QFramework 使用指南 (2020) - Res Kit（7）从其他位置加载资源](https://tdou.cc/cn/qf_reskit_07.html)
 - [QFramework 使用指南 (2020) - Res Kit（8）小结与补充](https://tdou.cc/cn/qf_reskit_08.html)
-
-
-
-
---- 
-
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
-本文链接：https://tdou.cc/cn/qframework.html
-附加版权说明: 本文所述版权归@{[凉鞋大佬](https://github.com/liangxiegame)} 凉鞋的笔记：liangxiegame.com
-文章引用自: [QF小班](http://master.liangxiegame.com/master/intro) 欢迎大佬一块加入交流学习

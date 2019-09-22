@@ -1,9 +1,8 @@
 ---
-title: Hexo博客 | github page&coding部署、hexo、travis-co、seo、评论、搜索、统计、广告
+title: Hexo博客 | github page&coding部署、hexo、travis-co、seo、评论、搜索、统计、广告、Url优化
 lang: cn
-urlname: jianzhan
 tags:
-  - 建站记录
+  - 博客搭建
   - hexo
   - hexo-replica
   - travis-ci
@@ -16,8 +15,8 @@ tags:
   - FlagCounter
   - Google-AdScene
 categories:
-  - 建站记录系列
-abbrlink: 2923196798
+  - 博客搭建
+abbrlink: hexo_jianzhan
 ---
 
 持续更新中 . . .
@@ -42,37 +41,10 @@ abbrlink: 2923196798
 
 
 
-# [SEO] 文章URL优化
 
-- 文章URL优化策略（一）：自定义id属性
+## 目录
 
-1.为每篇文章Front-matter添加id属性，作为文章URL，确保id属性的值满足以上条件。
-
-2.编辑站点配置文件：
-```
-# permalink: :year/:month/:day/:title.html  # 默认永久链接冗长，title中存在中文字符。
-permalink: :id.html # 尽量短，层次少，全小写，中划线连字，具有描述性，包含关键词
-```
-
-- 文章URL优化策略（二）：abbrlink链接唯一化
-
-1.安装abbrlink插件：
-
-```
-$ npm install hexo-abbrlink --save  
-```
-
-2.编辑站点配置文件：
-```
-permalink: :abbrlink.html   # 生成唯一链接
-abbrlink:
-  alg: crc32  # 算法：crc16(default) and crc32
-  rep: dec    # 进制：dec(default) and hex
-```
-
-标签&分类URL优化
-
-我们在对文章分类或添加标签时，难免会用到中文或其他字符，而我们又在尽量避免中文字符出现在URL中，所以我们需要对中文分类&标签进行映射操作。
+- SEO - [Hexo搭建博客之Url优化](https://tdou.cc/cn/hexo_seo_url.html)
 
 ### 编辑站点配置文件：
 
