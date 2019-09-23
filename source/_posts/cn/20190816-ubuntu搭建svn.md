@@ -3,7 +3,7 @@ title: Ubuntu18.04 搭建 SVN
 iscopyright: true
 comments: true
 lang: cn
-abbrlink:
+abbrlink: 2339554629
 date: 2019-08-16 14:06:42
 tags:
 categories:
