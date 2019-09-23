@@ -1,12 +1,14 @@
 ---
 title: Hexo+github博客教程
+iscopyright: true
+comments: true
 lang: cn
 tags:
   - hexo
   - github
 categories:
   - 建站教程
-abbrlink: 844841121
+abbrlink: 
 date: 2019-08-11 16:27:45
 ---
 

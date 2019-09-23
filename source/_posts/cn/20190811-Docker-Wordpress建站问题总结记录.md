@@ -1,5 +1,7 @@
 ---
 title: Docker+Wordpress建站问题总结记录
+iscopyright: true
+comments: true
 lang: cn
 tags:
   - docker
@@ -7,7 +9,7 @@ tags:
   - 解决方案
 categories:
   - docker
-abbrlink: 683599947
+abbrlink:
 date: 2019-08-11 16:32:08
 ---
 

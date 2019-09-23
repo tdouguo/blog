@@ -1,12 +1,18 @@
 ---
-title: Unity 开发者技术栈总结
+title: Unity Developer
+iscopyright: true
+comments: true
 lang: cn
-urlname: u3d-developer
+date: 2019-09-24 00:38:11
+updated: 2019-09-24 00:38:11
+abbrlink:
+author:
+tags:
+  - U3D学习路线
 categories:
   - Unity
-abbrlink: 284282615
-tags:
 ---
+
 
 - 3D图形学、渲染
     - 渲染管道流程
@@ -51,8 +57,3 @@ tags:
     - PlayerPrefs
     - Mysql等
     - Txt、Ini、excle、php、xml
-
---- 
-
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
-本文链接：https://tdou.cc/cn/Unity-Developer/

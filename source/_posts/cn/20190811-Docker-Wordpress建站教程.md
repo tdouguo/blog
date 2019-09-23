@@ -1,12 +1,14 @@
 ---
 title: Docker+Wordpress建站教程
+iscopyright: true
+comments: true
 lang: cn
 tags:
   - docker
   - wordpress
 categories:
   - 建站教程
-abbrlink: 1801971652
+abbrlink: docker_wordpress
 date: 2019-08-11 16:17:46
 ---
 

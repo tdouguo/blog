@@ -1,5 +1,7 @@
 ---
 title: 服务器进程管理supervisor问题总结记录
+iscopyright: true
+comments: true
 lang: cn
 tags:
   - supervisor
@@ -7,7 +9,7 @@ tags:
   - 解决方案
 categories:
   - 服务器
-abbrlink: 2813305416
+abbrlink:
 date: 2019-08-11 16:49:56
 ---
 

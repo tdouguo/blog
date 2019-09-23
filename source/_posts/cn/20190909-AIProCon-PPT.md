@@ -1,12 +1,10 @@
 ---
 title: 2019 AIproCon 开发者大会 PPT
 lang: cn
-urlname: AIProCon-PPT
 tags:
-  - AIProCon-PPT
 categories:
   - AIProCon
-abbrlink: 2448065906
+abbrlink: AIProCon-PPT
 date: 2019-09-09 13:51:25
 ---
 

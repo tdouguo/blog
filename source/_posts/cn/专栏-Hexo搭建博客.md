@@ -2,7 +2,6 @@
 title: Hexo博客 | github page&coding部署、hexo、travis-co、seo、评论、搜索、统计、广告、Url优化
 lang: cn
 tags:
-  - 博客搭建
   - hexo
   - hexo-replica
   - travis-ci
@@ -15,7 +14,7 @@ tags:
   - FlagCounter
   - Google-AdScene
 categories:
-  - 博客搭建
+  - 搭建博客
 abbrlink: hexo_jianzhan
 ---
 
@@ -40,36 +39,13 @@ abbrlink: hexo_jianzhan
 - [ ] [SEO] 关键字优化,外链
 
 
-
-
 ## 目录
 
 - SEO - [Hexo搭建博客之Url优化](https://tdou.cc/cn/hexo_seo_url.html)
-
-### 编辑站点配置文件：
-
-- 分类名映射
-    ```
-    category_map:  
-    生活: life
-    其他: other
-    ```
-
-- 标签名映射
-    ```
-    tag_map:
-    生活: life
-    其他: other
-    ```
-
-- [](https://www.cnblogs.com/liziczh/p/9318665.html)
+- [Hexo搭建博客之战点配置文件详解](https://tdou.cc_cn/hexo_config.html)
 
 
-
-
----
-
-# 待实现计划
+# 菜鸟式教程
 
 - v0.0.1 目标: 实现 Hexo主题+GitHub部署
 - v0.0.2 目标: 实现 Travis-ci 持续集成
@@ -77,22 +53,18 @@ abbrlink: hexo_jianzhan
 - v0.0.4 目标: 实现 域名绑定Github 以及 CHAME同时解析CODING
 
 - SEO 优化
-    - [无优先级] v0.0.x.配置 目标: 实现 GULP 压缩以及Travis-ci 的自动部署
-    - [无优先级] v0.0.x.配置 目标: 站点地图配置
-    - [无优先级] v0.0.x.配置 目标: robots.txt
-
+    - v0.0.x.配置 目标: 实现 GULP 压缩以及Travis-ci 的自动部署
+    - v0.0.x.配置 目标: 站点地图配置
+    - v0.0.x.配置 目标: robots.txt   
 
 - 其他自定义配置
-    - [无优先级] v0.0.x.配置[建议] 统计配置
-    - [无优先级] v0.0.x.配置[非必须] 评论配置
-    - [无优先级] v0.0.x.配置[自行决定] SEO 七牛图床
+    - v0.0.x.配置[建议] 统计配置
+    - v0.0.x.配置[非必须] 评论配置
+    - v0.0.x.配置[自行决定] SEO 七牛图床
 
 
-
-
-- v.1.0 目的 v0.0.1-v0.0.4 + SEO优化
-
-- v.1.0.1 目的 其他自定义配置
+## 其他链接
+- [如何使用Git以及在Github创建一个代码仓库](https://tdou.cc/)
 
 
 ---
@@ -104,9 +76,3 @@ abbrlink: hexo_jianzhan
     - A: 找到替换方案 https://www.iconfont.cn/, 使用方式:https://www.jianshu.com/p/5d4a39cdf96d
 
 - Q2-更改页脚菜单中链接脚本路径 */themes/replica/layout/_partial/footer.ejs
-
-
---- 
-
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
-本文链接：https://tdou.cc/cn/建站笔记总览/

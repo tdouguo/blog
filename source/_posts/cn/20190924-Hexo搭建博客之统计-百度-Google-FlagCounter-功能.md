@@ -1,14 +1,18 @@
 ---
-title: 建站笔记-统计
+title: Hexo搭建博客之统计(百度&Google&FlagCounter)功能
+iscopyright: true
+comments: true
 lang: cn
+date: 2019-09-24 00:41:11
+updated: 2019-09-24 00:41:11
+abbrlink:
+author:
 tags:
   - 百度统计
   - Google-Analytics
   - FlagCounter
 categories:
-  - 建站记录系列
-abbrlink: 1203137737
-date: 2019-09-08 19:54:25
+  - 搭建博客
 ---
 
 
@@ -52,8 +56,3 @@ date: 2019-09-08 19:54:25
 
 - 参考: 
     - [csdn 使用 访客统计FlagCounter](https://blog.csdn.net/kl28978113/article/details/79500217)
-
---- 
-
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
-本文链接：https://tdou.cc/cn/建站笔记-统计/
