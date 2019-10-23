@@ -1,5 +1,7 @@
 ---
 title: 2019 AIproCon 开发者大会 PPT
+iscopyright: true
+comments: true
 lang: cn
 tags:
 categories:
