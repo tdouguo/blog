@@ -1,11 +1,11 @@
 ---
-title: 站点日志
+title: 网站日志
 iscopyright: true
 comments: true
 lang: cn
 date: 2019-11-12 17:14:25
 updated: 2019-11-12 17:14:25
-abbrlink:
+abbrlink: wangzhanrizhi
 author:
 tags:
 categories:

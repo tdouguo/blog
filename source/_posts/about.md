@@ -5,7 +5,7 @@ comments: true
 lang: cn
 date: 2019-11-12 17:14:22
 updated: 2019-11-12 17:14:22
-abbrlink:
+abbrlink: about
 author:
 tags:
 categories:
