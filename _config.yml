@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My's Blog
-description: 一个特别爱吃土豆的程序猿,积累自己的知识,建立知识体系结构&完善自我技术栈,并分享技术文章文章。
+title: TDou's Blog
+description: This world is my canteen, and I get nutrition from it to enrich myself. Constant holding can make me  a progressive.
 author: TDou
 language: zh-CN
 timezone: Asia/Shanghai
@@ -127,10 +127,10 @@ donate:
 
 avatar: http://img.0x96m.com/avatar.jpg
 social:
-  github: https://github.com/CnTDou
+  github: https://github.com/T-Dou
   weibo: https://www.weibo.com/5730394625
   csdn: https://me.csdn.net/gjmvvv
-  cnblogs: http://www.cnblogs.com/GJM6/
+  cnblogs: http://www.cnblogs.com/TDou
   jianshu: https://www.jianshu.com/u/b1503830fe57
   zhihu: https://www.zhihu.com/people/CnTDou
   twitter: https://twitter.com/CnTDou
