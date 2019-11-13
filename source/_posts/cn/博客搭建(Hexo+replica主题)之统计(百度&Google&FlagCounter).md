@@ -1,5 +1,5 @@
 ---
-title: Hexo搭建博客之统计(百度&Google&FlagCounter)功能
+title: 博客搭建(Hexo+replica主题) 之统计 百度&Google&FlagCounter 篇
 iscopyright: true
 comments: true
 lang: cn
@@ -9,7 +9,7 @@ tags:
   - Google-Analytics
   - FlagCounter
 categories:
-  - 搭建博客
+  - 博客搭建(Hexo+replica主题)
 date: 2019-09-24 00:41:11
 updated: 2019-09-24 00:41:11
 author:

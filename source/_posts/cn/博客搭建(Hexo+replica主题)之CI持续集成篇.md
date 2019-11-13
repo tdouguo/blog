@@ -1,5 +1,5 @@
 ---
-title: Hexo搭建博客之利器持续集成 | travis-ci_自动部署_github博客
+title: 博客搭建(Hexo+replica主题) 之 CI持续集成篇 | travis-ci 持续集成 github自动部署
 iscopyright: true
 comments: true
 lang: cn
@@ -7,9 +7,9 @@ tags:
   - hexo
   - travis-ci
   - 持续集成
-  - Hexo自动部署
+  - 自动部署
 categories:
-  - Hexo搭建博客
+  - 博客搭建(Hexo+replica主题)
 abbrlink: 3108162835
 date: 2019-08-03 01:36:48
 ---

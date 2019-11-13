@@ -1,11 +1,13 @@
 ---
-title: Hexo博客 | github page&coding部署、hexo、travis-co、seo、评论、搜索、统计、广告、Url优化
+title: 博客搭建(Hexo+replica主题) 总览 | github page&coding部署 travis-ci 持续集成 seo 评论 搜索 统计 广告 Url优化
+iscopyright: true
+comments: true
 lang: cn
 tags:
   - hexo
   - hexo-replica
   - travis-ci
-  - seo
+  - SEO
   - disqus
   - 评论
   - google-search
@@ -14,14 +16,16 @@ tags:
   - FlagCounter
   - Google-AdScene
 categories:
-  - 博客搭建HexoAndreplica主题)
+  - 博博客搭建(Hexo+replica主题)
 abbrlink: hexo
 ---
 
 持续更新中 . . .
 
+# 简介
+此项目为 Hexo + replica 主题制作 依托于github 和 coding部署使用
+> github地址: [https://github.com/t-dou/tdou.cc](https://github.com/t-dou/tdou.cc)
 
-# 功能列表
 
 - [x] 基于 [Hexo](https://hexo.io/) + [Hexo 主题 replica](https://github.com/sabrinaluo/hexo-theme-replica)实现站点以及md文章编写
 - [x] 基于 [github page](https://github.com) 和 [coding](https://coding.net) 实现代码托管和部署
@@ -35,7 +39,6 @@ abbrlink: hexo
 - [x] [统计] [百度统计](https://tongji.baidu.com/)、[Google Analytics](https://google.com/analytics/)、[访客统计FlagCounter](http://www.flagcounter.com/) [教程](https://blog.csdn.net/kl28978113/article/details/79500217)
 - [x] [站点广告] [google adscene](https://www.google.com/adsense/)
 - [x] [SEO] 文章URL优化
-
 - [ ] [SEO] 关键字优化,外链
 
 
@@ -66,8 +69,6 @@ abbrlink: hexo
 ## 其他链接
 - 敬请期待: [如何使用Git以及在Github创建一个代码仓库](https://tdou.cc/)
 
-
----
 
 ## 附加其他
 - 主题:(social)链接 左侧个人信息无法添加其他的图标+链接对应解决方案

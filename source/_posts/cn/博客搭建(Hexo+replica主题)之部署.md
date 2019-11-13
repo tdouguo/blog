@@ -7,7 +7,7 @@ tags:
   - hexo
   - github
 categories:
-  - 建站教程
+  - 博客搭建(Hexo+replica主题)
 abbrlink: 844841121
 date: 2019-08-11 16:27:45
 ---

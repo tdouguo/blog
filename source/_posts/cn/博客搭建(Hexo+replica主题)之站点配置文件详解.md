@@ -1,5 +1,5 @@
 ---
-title: Hexo搭建博客之 _config.yml 详解 | 未完成
+title: 博客搭建(Hexo+replica主题) 之 hexo _config.yml 详解
 iscopyright: true
 comments: true
 lang: cn
@@ -10,7 +10,7 @@ tags:
     - hexo
     - seo
 categories:
-    - Hexo搭建博客
+    - 博客搭建(Hexo+replica主题)
 ---
 
 _config.yml
