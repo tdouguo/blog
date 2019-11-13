@@ -8,10 +8,10 @@
 - [x] [SEO] 使用GULP 进行代码压缩
 - [x] [SEO] 站点地图 百度=html、google=xml 
 - [x] [SEO] robots.txt 站点机器人爬取规则 更快收录 [自动生成web工具](http://tool.chinaz.com/robots/)
-- [x] [SEO] 基于七牛图床实现图片存储,基于[PicGo](https://molunerfinn.com/PicGo/)实现图片管理 需要已经备案的域名
+- [x] [SEO] 基于七牛图床(需要已经备案的域名)实现图片存储,基于[PicGo](https://molunerfinn.com/PicGo/)实现图片管理
 - [x] [评论] [disqus](https://disqus.com/)
 - [x] [Google搜索](https://search.google.com/)
-- [x] [统计] [百度统计](https://tongji.baidu.com/)、[Google Analytics](https://google.com/analytics/)、[访客统计FlagCounter](http://www.flagcounter.com/) [教程](https://blog.csdn.net/kl28978113/article/details/79500217)
+- [x] [统计] [百度统计](https://tongji.baidu.com/)、[Google Analytics](https://google.com/analytics/)、[访客统计FlagCounter](http://www.flagcounter.com/)
 - [x] [站点广告] [google adscene](https://www.google.com/adsense/)
 - [x] [SEO] 文章URL优化
 - [ ] [SEO] 关键字优化,外链
