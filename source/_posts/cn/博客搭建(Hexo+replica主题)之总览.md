@@ -14,8 +14,8 @@ tags:
   - FlagCounter
   - Google-AdScene
 categories:
-  - Hexo搭建博客
-abbrlink: hexo_jianzhan
+  - 博客搭建HexoAndreplica主题)
+abbrlink: hexo
 ---
 
 持续更新中 . . .
