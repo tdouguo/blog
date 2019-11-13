@@ -1,5 +1,5 @@
 ---
-title: Hexo+github博客教程
+title: 博客搭建(Hexo+replica主题) 之 部署篇
 iscopyright: true
 comments: true
 lang: cn
