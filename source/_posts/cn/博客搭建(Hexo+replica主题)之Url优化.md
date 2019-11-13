@@ -1,5 +1,5 @@
 ---
-title: Hexo搭建博客之Url优化
+title: 博客搭建(Hexo+replica主题) 之 Url优化篇
 iscopyright: true
 comments: true
 date: 2019-09-23 02:17:08
