@@ -24,6 +24,7 @@ abbrlink:
   alg: crc32  # 算法：crc16(default) and crc32
   rep: dec    # 进制：dec(default) and hex
 
+layout: post
 
 # Directory
 source_dir: source
