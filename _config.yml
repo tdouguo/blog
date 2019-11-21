@@ -123,10 +123,10 @@ donate:
   message: 欣赏此文？求鼓励，求支持！
   btc: 3JfBFrELvdXNVVhT2MXvkZNsQAuy12WfDR
   btc_url: http://s3.t-dou.net/btc.jpg
-  ali_url: http://img.t-dou.net/pay_ali.jpg
-  wechat_url: http://img.t-dou.net/pay_wx.jpg
+  ali_url: http://s3.t-dou.net/pay_ali.jpg
+  wechat_url: http://s3.t-dou.net/pay_wx.jpg
 
-avatar: http://img.t-dou.net/tdou_cc_avatar.jpg
+avatar: http://s3.t-dou.net/tdou_cc_avatar.jpg
 social:
   github: https://github.com/T-Dou
   weibo: https://www.weibo.com/5730394625
