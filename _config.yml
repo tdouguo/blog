@@ -122,7 +122,7 @@ donate:
   enable: true
   message: 欣赏此文？求鼓励，求支持！
   btc: 3JfBFrELvdXNVVhT2MXvkZNsQAuy12WfDR
-  btc_url: http://img.t-dou.net/btc.jpg
+  btc_url: http://s3.t-dou.net/btc.jpg
   ali_url: http://img.t-dou.net/pay_ali.jpg
   wechat_url: http://img.t-dou.net/pay_wx.jpg
 
