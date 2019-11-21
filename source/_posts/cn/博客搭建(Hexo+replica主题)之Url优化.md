@@ -1,5 +1,5 @@
 ---
-title: 博客搭建(Hexo+replica主题) 之 Url优化篇
+title: 博客搭建(Hexo+replica主题) 之 Url优化篇 | hexo permalink abbrlink
 iscopyright: true
 comments: true
 date: 2019-09-23 02:17:08
@@ -9,10 +9,10 @@ author:
 lang: cn
 tags:
     - hexo
-    - seo
-    - Hexo搭建博客优化
+    - SEO
+    - 优化
 categories:
-    - 搭建博客
+    - 博客搭建(Hexo+replica主题)
 ---
 
 

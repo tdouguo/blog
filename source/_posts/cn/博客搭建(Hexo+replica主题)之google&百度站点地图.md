@@ -1,13 +1,16 @@
 ---
-title: 自动收录-google & 百度 站点地图设置
+title: 博客搭建(Hexo+replica主题) 之 google&百度 收录篇 | 站点地图 收录 SEO
 iscopyright: true
 comments: true
 lang: cn
 abbrlink: 835650620
-categories:
-  - 搭建博客
 date: 2019-08-11 18:15:01
 tags:
+  - SEO
+  - 百度收录
+  - Google收录
+categories:
+  - 博客搭建(Hexo+replica主题)
 ---
 
 验证是否收录:
