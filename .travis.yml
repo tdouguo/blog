@@ -55,6 +55,6 @@ branches:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - kevin@kylin.app
+    - me@tdou.io
   on_success: change
   on_failure: always
