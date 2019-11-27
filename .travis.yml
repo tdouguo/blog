@@ -10,7 +10,7 @@ cache:
 
 before_install:
   - export TZ='Asia/Shanghai' # 更改时区
-  # - npm install -g gulp  # 初次或删除缓存时取消注释
+  - npm install -g gulp  # 初次或删除缓存时取消注释
 
 install:
   - npm install  #安装hexo及插件
