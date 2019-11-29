@@ -13,7 +13,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 # 更改链接结果形式 https://hexo.io/zh-cn/docs/permalinks
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://tdou.cc
+url: https://www.tdou.cc
 root: /
 permalink: :lang/:abbrlink.html
 permalink_defaults:
