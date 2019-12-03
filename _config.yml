@@ -106,7 +106,7 @@ disqus: tdou # DISQUS ID
 baidu_push: true
 
 location: Beijing, China 
-email: kevin@kylin.app
+email: me@tdou.io
 baidusitemap: 
 path: baidusitemap.xml
 
