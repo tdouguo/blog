@@ -21,19 +21,19 @@ install:
   - npm install hexo-generator-baidu-sitemap --save
 
 script:
-  - git submodule update --init --recursive
   - hexo clean  #清除
   - hexo g && gulp  #生成 暂时不压缩
 
 after_script:
   - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
+  - git submodule update --init --recursive
   - cd .deploy_git
   - git checkout master
   - cd ../
   - mv .deploy_git/.git/ ./public/   # 这一步之前的操作是为了保留master分支的提交记录，不然每次git init的话只有1条commit
   - cd ./public
   - git config user.name "tdou.cc@travis"  #修改name
-  - git config user.email "kevin@kylin.app"  #修改email
+  - git config user.email "me@tdouplus.com"  #修改email
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
   - git push --force --quiet "https://${GITHUB_TOKEN}@${GH_REF}" master:gh-pages  #Travis_Token是在Travis中配置环境变量的名称
