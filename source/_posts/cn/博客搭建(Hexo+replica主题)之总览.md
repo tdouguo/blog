@@ -16,7 +16,7 @@ tags:
   - FlagCounter
   - Google-AdScene
 categories:
-  - 博博客搭建(Hexo+replica主题)
+  - 博客搭建(Hexo+replica主题)
 abbrlink: hexo
 ---
 
