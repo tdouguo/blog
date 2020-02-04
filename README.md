@@ -19,6 +19,9 @@
 
 ## [站点日志](https://tdou.cc/changelog.html)
 
+- 2020.2.4
+    - 添加Firebase-sdk
+
 - 2019.11.12
 	- [百度收录](https://blog.csdn.net/qq_32454537/article/details/79482914) 因域名无法备案 百度不收录 百度某一时间点做百度快照
 
