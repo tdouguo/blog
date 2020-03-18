@@ -130,14 +130,14 @@ donate:
 
 avatar: http://s3.t-dou.cn/avatar.jpg
 social:
-  github: https://github.com/T-Dou
-  weibo: https://www.weibo.com/5730394625
+  github: https://github.com/tdouguo
+  weibo: https://www.weibo.com/tdouguo
   csdn: https://me.csdn.net/gjmvvv
   cnblogs: http://www.cnblogs.com/TDou
   jianshu: https://www.jianshu.com/u/b1503830fe57
   zhihu: https://www.zhihu.com/people/CnTDou
-  twitter: https://twitter.com/CnTDou
-  facebook: https://www.facebook.com/CnTDou
+  twitter: https://twitter.com/tdouguo
+  facebook: https://www.facebook.com/tdouguo
 
 footer:
   custom_name: TDOU+
@@ -149,5 +149,5 @@ flagcounter_img_src: https://s01.flagcounter.com/count/UVrV/bg_FFFFFF/txt_000000
 
 #deploy:
 #  type: git
-#  repo: git@github.com:CnTDou/kylin.app.git
+#  repo: git@github.com:tdouguo/tdou.cc.git
 #  branch: gh-pages
