@@ -15,7 +15,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 # 更改链接结果形式 https://hexo.io/zh-cn/docs/permalinks
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.tdou.cc
+url: https://blog.tdouguo.com
 root: /
 permalink: :lang/:abbrlink.html
 permalink_defaults:
@@ -56,7 +56,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: TDOU.CC
+default_category: TDOU
 category_map:
   编程: programming
   生活: life
