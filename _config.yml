@@ -101,7 +101,7 @@ marked:
   smartypants: true
 
 gcs: 013515171728354998330:ocbdx7u5sus # GOOGLE CUSTOM SEARCH
-baidutongji: dc1607e81c6038df0ef945fb4e9e0476 # BAIDU TONGJI CODE
+baidutongji: 4481b7e1df9aea90cda63bbd1804e58a # BAIDU TONGJI CODE
 disqus: tdou # DISQUS ID
 baidu_push: true
 
