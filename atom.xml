@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My&#39;s Blog</title>
+  <icon>https://www.gravatar.com/avatar/d34d3bd928aa1809f249db623adfa233</icon>
+  <subtitle>郭进明·(Tdou) 的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.tdouguo.com/"/>
+  <updated>2020-08-01T15:59:28.227Z</updated>
+  <id>https://blog.tdouguo.com/</id>
+  
+  <author>
+    <name>TDou</name>
+    <email>me@tdou.io</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.tdouguo.com/en/1243066710.html"/>
+    <id>https://blog.tdouguo.com/en/1243066710.html</id>
+    <published>2020-08-01T15:59:28.227Z</published>
+    <updated>2020-08-01T15:59:28.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page archives</span><br><span class="line">$ hexo new page categories</span><br><span class="line">$ hexo new page tags</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Unity之Shader系列 | 持续更新中...</title>
+    <link href="https://blog.tdouguo.com/cn/508188947.html"/>
+    <id>https://blog.tdouguo.com/cn/508188947.html</id>
+    <published>2020-08-01T15:59:28.223Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOP]</p><ul><li><a href="https://tdou.cc/cn/Shader-01.html" target="_blank" rel="noopener">Shader-01-启蒙</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[TOP]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://tdou.cc/cn/Shader-01.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Shader-01-启蒙&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Unity-Shader" scheme="https://blog.tdouguo.com/categories/Unity-Shader/"/>
+    
+    
+      <category term="Shader" scheme="https://blog.tdouguo.com/tags/Shader/"/>
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建(Hexo+replica主题) 总览 | github page&amp;coding部署 travis-ci 持续集成 seo 评论 搜索 统计 广告 Url优化</title>
+    <link href="https://blog.tdouguo.com/cn/hexo.html"/>
+    <id>https://blog.tdouguo.com/cn/hexo.html</id>
+    <published>2020-08-01T15:59:28.223Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>持续更新中 . . .</p><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>此项目为 Hexo + replica 主题制作 依托于github 和 coding部署使用</p><blockquote><p>github地址: <a href="https://github.com/t-dou/tdou.cc" target="_blank" rel="noopener">https://github.com/t-dou/tdou.cc</a></p></blockquote><ul><li><input checked disabled type="checkbox"> 基于 <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> + <a href="https://github.com/sabrinaluo/hexo-theme-replica" target="_blank" rel="noopener">Hexo 主题 replica</a>实现站点以及md文章编写</li><li><input checked disabled type="checkbox"> 基于 <a href="https://github.com" target="_blank" rel="noopener">github page</a> 和 <a href="https://coding.net" target="_blank" rel="noopener">coding</a> 实现代码托管和部署</li><li><input checked disabled type="checkbox"> [自动化部署] 基于<a href="https://travis-ci.com" target="_blank" rel="noopener">travis-ci</a> 自动化部署 push github:master代码后即可自动部署  github:gh-page &amp; coding</li><li><input checked disabled type="checkbox"> [SEO] 使用GULP 进行代码压缩</li><li><input checked disabled type="checkbox"> [SEO] 站点地图 百度=html、google=xml </li><li><input checked disabled type="checkbox"> [SEO] robots.txt 站点机器人爬取规则 更快收录 <a href="http://tool.chinaz.com/robots/" target="_blank" rel="noopener">自动生成web工具</a></li><li><input checked disabled type="checkbox"> [SEO] 基于七牛图床实现图片存储,基于<a href="https://molunerfinn.com/PicGo/" target="_blank" rel="noopener">PicGo</a>实现图片管理 需要已经备案的域名</li><li><input checked disabled type="checkbox"> [评论] <a href="https://disqus.com/" target="_blank" rel="noopener">disqus</a></li><li><input checked disabled type="checkbox"> <a href="https://search.google.com/" target="_blank" rel="noopener">Google搜索</a></li><li><input checked disabled type="checkbox"> [统计] <a href="https://tongji.baidu.com/" target="_blank" rel="noopener">百度统计</a>、<a href="https://google.com/analytics/" target="_blank" rel="noopener">Google Analytics</a>、<a href="http://www.flagcounter.com/" target="_blank" rel="noopener">访客统计FlagCounter</a> <a href="https://blog.csdn.net/kl28978113/article/details/79500217" target="_blank" rel="noopener">教程</a></li><li><input checked disabled type="checkbox"> [站点广告] <a href="https://www.google.com/adsense/" target="_blank" rel="noopener">google adscene</a></li><li><input checked disabled type="checkbox"> [SEO] 文章URL优化</li><li><input disabled type="checkbox"> [SEO] 关键字优化,外链</li></ul><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul><li>SEO - <a href="https://tdou.cc/cn/hexo_seo_url.html" target="_blank" rel="noopener">Hexo搭建博客之Url优化</a></li><li><a href="https://tdou.cc_cn/hexo_config.html" target="_blank" rel="noopener">Hexo搭建博客之站点配置文件详解</a></li></ul><h1 id="菜鸟式搭建教程"><a href="#菜鸟式搭建教程" class="headerlink" title="菜鸟式搭建教程"></a>菜鸟式搭建教程</h1><ul><li><p>v0.0.1 目标: 实现 Hexo主题+GitHub部署</p></li><li><p>v0.0.2 目标: 实现 Travis-ci 持续集成</p></li><li><p>v0.0.3 目标: 实现 Coding同步Github部署</p></li><li><p>v0.0.4 目标: 实现 域名绑定Github 以及 CHAME同时解析CODING</p></li><li><p>SEO 优化</p><ul><li>v0.0.x.配置 目标: 实现 GULP 压缩以及Travis-ci 的自动部署</li><li>v0.0.x.配置 目标: 站点地图配置</li><li>v0.0.x.配置 目标: robots.txt   </li></ul></li><li><p>其他自定义配置</p><ul><li>v0.0.x.配置[建议] 统计配置</li><li>v0.0.x.配置[非必须] 评论配置</li><li>v0.0.x.配置[自行决定] SEO 七牛图床</li></ul></li></ul><h2 id="其他链接"><a href="#其他链接" class="headerlink" title="其他链接"></a>其他链接</h2><ul><li>敬请期待: <a href="https://tdou.cc/" target="_blank" rel="noopener">如何使用Git以及在Github创建一个代码仓库</a></li></ul><h2 id="附加其他"><a href="#附加其他" class="headerlink" title="附加其他"></a>附加其他</h2><ul><li><p>主题:(social)链接 左侧个人信息无法添加其他的图标+链接对应解决方案</p><ul><li>Q1-更改左侧intro信息链接脚本路径 */themes/replica/layout/intro.ejs<ul><li>Q: 因主题icon基于 <a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">http://www.fontawesome.com.cn/faicons/</a> 获取的图标，部分图片开源库中没有,导致无法引用链接,例:csdn、博客园、知乎、简书</li><li>A: 找到替换方案 <a href="https://www.iconfont.cn/" target="_blank" rel="noopener">https://www.iconfont.cn/</a>, 使用方式:<a href="https://www.jianshu.com/p/5d4a39cdf96d" target="_blank" rel="noopener">https://www.jianshu.com/p/5d4a39cdf96d</a></li></ul></li><li>Q2-更改页脚菜单中链接脚本路径 */themes/replica/layout/_partial/footer.ejs</li></ul></li><li><p>博客站点 <a href="http://tdou.cc/" target="_blank" rel="noopener">http://tdou.cc</a></p></li></ul><p>github源代码开源地址 : <a href="https://github.com/t-dou/tdou.cc" target="_blank" rel="noopener">https://github.com/t-dou/tdou.cc</a></p><blockquote><p>master分支为存放 hexo源项目+md博文<br>gh-pages 分支存放为 travis-ci 自动生成的html文件</p></blockquote><p>主项目的主题以子模块方式引用 地址: <a href="https://github.com/T-Dou/hexo-theme-replica" target="_blank" rel="noopener">https://github.com/T-Dou/hexo-theme-replica</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;持续更新中 . . .&lt;/p&gt;
+&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;此项目为 Hexo + replica 主题制作 依托于github 和 coding部署使用&lt;/p&gt;
+      
+    
+    </summary>
+    
+      <category term="博客搭建(Hexo+replica主题)" scheme="https://blog.tdouguo.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo-replica%E4%B8%BB%E9%A2%98/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.tdouguo.com/tags/hexo/"/>
+    
+      <category term="travis-ci" scheme="https://blog.tdouguo.com/tags/travis-ci/"/>
+    
+      <category term="SEO" scheme="https://blog.tdouguo.com/tags/SEO/"/>
+    
+      <category term="hexo-replica" scheme="https://blog.tdouguo.com/tags/hexo-replica/"/>
+    
+      <category term="disqus" scheme="https://blog.tdouguo.com/tags/disqus/"/>
+    
+      <category term="评论" scheme="https://blog.tdouguo.com/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+      <category term="google-search" scheme="https://blog.tdouguo.com/tags/google-search/"/>
+    
+      <category term="百度统计" scheme="https://blog.tdouguo.com/tags/%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="Google-Analytics" scheme="https://blog.tdouguo.com/tags/Google-Analytics/"/>
+    
+      <category term="FlagCounter" scheme="https://blog.tdouguo.com/tags/FlagCounter/"/>
+    
+      <category term="Google-AdScene" scheme="https://blog.tdouguo.com/tags/Google-AdScene/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用Markdown设置图片样式</title>
+    <link href="https://blog.tdouguo.com/cn/null.html"/>
+    <id>https://blog.tdouguo.com/cn/null.html</id>
+    <published>2020-02-19T09:14:07.000Z</published>
+    <updated>2020-02-19T09:14:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文链接: <a href="https://www.xaprb.com/blog/how-to-style-images-with-markdown/" target="_blank" rel="noopener">https://www.xaprb.com/blog/how-to-style-images-with-markdown/</a></p><hr><p>Markdown是一种方便的、以html为中心的简写语法，用于格式化文档和博客文章等内容，但它缺乏图像格式化(如对齐和大小调整)的基本功能。这篇文章介绍了多种使用Markdown来格式化图像的方法，从蛮力到专有语法扩展、不明智的修改，以及介于两者之间的各种方法。</p><p>这是你如何插入一个图像在Markdown:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![alt text](/src/of/image.jpg &quot;title&quot;)</span><br></pre></td></tr></table></figure><p>也就是说，Markdown允许您在HTML中使用src、alt和title属性指定<img>标记。标准的Markdown并没有提供更多的功能，但是网站通常需要宽度、高度和CSS类属性。</p><p>本文的其余部分致力于解决这些缺点的各种方法。为了激发这个讨论，我将使用一个应该以较小尺寸显示的大图像示例。</p><p>例如,</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![Kitten](/media/2018/08/kitten.jpg &quot;A cute kitten&quot;)</span><br></pre></td></tr></table></figure><p><img src="https://d33wubrfki0l68.cloudfront.net/200d166fc3dff29e5b8a6703d8e83cc25821bcf4/10dd6/media/2018/08/kitten.jpg" alt></p><p>我不会向您展示如何添加对齐、浮动或浮动—但是我的大小调整示例就足够了，因为一旦您知道如何更改图像的大小，您就会知道如何做其他事情。我将首先向您展示最好的解决方案，最后介绍不需要的解决方案。</p><h2 id="使用标准的HTML"><a href="#使用标准的HTML" class="headerlink" title="使用标准的HTML"></a>使用标准的HTML</h2><p>Markdown最初是为HTML创作而设计的，它允许在任何地方、任何时间使用原始HTML。因此，最直接的解决方案是简单地使用HTML与所需的属性:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;/media/2018/08/kitten.jpg&quot; alt=&quot;Kitten&quot;</span><br><span class="line">title=&quot;A cute kitten&quot; width=&quot;150&quot; height=&quot;100&quot; /&gt;</span><br></pre></td></tr></table></figure><p><img src="https://d33wubrfki0l68.cloudfront.net/200d166fc3dff29e5b8a6703d8e83cc25821bcf4/10dd6/media/2018/08/kitten.jpg" alt="Kitten" title="A cute kitten" width="150" height="100"></p><p>这样做是有效的，并且为您提供了对结果HTML的无限制控制。但是Markdown因其简单而吸引人，不像HTML那样充斥着杂乱的标记。因此，许多人不喜欢这个解决方案，因为它违背了Markdown的目的。</p><h2 id="使用CSS和特殊的URL参数"><a href="#使用CSS和特殊的URL参数" class="headerlink" title="使用CSS和特殊的URL参数"></a>使用CSS和特殊的URL参数</h2><p>通常，对图像进行样式化的最好方法是使用CSS。现代CSS语法可以根据元素的属性值来选择元素，所以应用CSS规则的一种方法是将额外的信息编码到Markdown的标准src属性中。在本节中，我将讨论这些可能性。稍后，我还将向您展示一些不需要的与css相关的技术。</p><p>URL中有两个地方可以重载以携带CSS可以使用的信息:URL片段和URL查询参数。</p><p>URL片段是在#字符之后的部分。当它在网站的URL中使用时，它可以滚动页面，将所需的部分内容显示到视图中，但是您也可以将其添加到图像中。当您这样做时，它实际上对浏览器来说什么也不做，而且一般用户也不会在浏览器的地址栏中看到它。但它对我们的造型需求很有用。在这里，我们将添加一个缩略图片段到图像的源URL:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![Kitten](/media/2018/08/kitten.jpg#thumbnail)</span><br></pre></td></tr></table></figure><p>此信息完全保存在客户端，浏览器在请求内容时不会将这部分URL传输到服务器。但是，CSS和JavaScript可以读取片段并使用它。下面是如何编写一个CSS选择器，将匹配的图像与这个“缩略图”信息在URL:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">img[src*=&quot;#thumbnail&quot;] &#123;</span><br><span class="line">   width:150px;</span><br><span class="line">   height:100px;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="https://www.xaprb.com/media/2018/08/kitten.jpg#thumbnail" alt="Kitten"><br>img[src*=”#thumbnail”] {<br>   width:150px;<br>   height:100px;<br>}</p><p>如果#thumbnail出现在src属性中的任何位置，则*=选择器语法匹配。您还可以使用$=”#thumbnail”将匹配锚定到URL的结尾。</p><p>这只允许将单个值编码到URL中，但是您可以修改此技术以添加多个值。CSS还有一个~=选择器，如果指定的值恰好以空格分隔的“word”形式出现在属性值中，它就会匹配。这让你模拟组合多个“类”在URL片段:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![Kitten](/media/2018/08/kitten.jpg# thumbnail bordered)</span><br></pre></td></tr></table></figure><p>现在你可以针对这些伪“类”名称从CSS:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">img[src~=&quot;thumbnail&quot;] &#123;</span><br><span class="line">   width:150px;</span><br><span class="line">   height:100px;</span><br><span class="line">&#125;</span><br><span class="line">img[src~=&quot;bordered&quot;] &#123;</span><br><span class="line">   border: 1px solid black;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>![Kitten](<a href="https://www.xaprb.com/media/2018/08/kitten.jpg#" target="_blank" rel="noopener">https://www.xaprb.com/media/2018/08/kitten.jpg#</a> thumbnail bordered)<br>img[src<del>=”thumbnail”] {<br>   width:150px;<br>   height:100px;<br>}<br>img[src</del>=”bordered”] {<br>   border: 1px solid black;<br>}</p><p>将空格编码为URL的等效方法是使用%20 URL编码，但是我发现这在我在这里展示的Blackfriday Markdown处理器中不起作用1:</p><p><img src="https://d33wubrfki0l68.cloudfront.net/200d166fc3dff29e5b8a6703d8e83cc25821bcf4/10dd6/media/2018/08/kitten.jpg" alt></p><p>当然，您可以选择不同的方法来构造值，例如使用key=value语法或任何适合您目的的方法。根据您的喜好，可以使用任何适合您的CSS选择器语法。</p><p>另一种方法是使用普通的URL查询参数，即问号后面的部分:</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原文链接: &lt;a href=&quot;https://www.xaprb.com/blog/how-to-style-images-with-markdown/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.xaprb.com/blog/h
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站日志</title>
+    <link href="https://blog.tdouguo.com/cn/changelog.html"/>
+    <id>https://blog.tdouguo.com/cn/changelog.html</id>
+    <published>2019-11-12T09:14:25.000Z</published>
+    <updated>2019-11-12T09:14:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>2019.11.12</p><ul><li><a href="https://blog.csdn.net/qq_32454537/article/details/79482914" target="_blank" rel="noopener">百度收录</a> 因域名无法备案 百度不收录 百度某一时间点做百度快照</li></ul></li><li><p>2019.09.06</p><ul><li>google adscene 正式使用</li><li>基于picgo 七牛图床实现图片管理 <a href="https://github.com/Molunerfinn/PicGo/releases" target="_blank" rel="noopener">参考</a></li></ul></li><li><p>2019.08.19</p><ul><li>添加搜索生成插件 <a href="https://www.itfanr.cc/2017/10/27/add-search-function-to-hexo-blog/" target="_blank" rel="noopener">参考</a></li><li>整理项目结构区分多语言版本</li><li>添加 <a href="https://www.google.com/adsense" target="_blank" rel="noopener">google-adscene</a> (未测试)</li></ul></li><li><p>2019.08.11</p><ul><li>百度统计 &amp; Google Analytics</li><li>Google Custom Search Engine^1</li><li><a href="https://www.jianshu.com/p/d68de067ea74?open_source=weibo_search" target="_blank" rel="noopener">Disqus</a> </li></ul></li><li><p>2019.08.08</p><ul><li>travis 部署使用gulp压缩</li></ul></li><li><p>2019.08.06</p><ol><li>解决travis 部署相关问题<ul><li>travis显示部署但访问404 [问题:无主题,子模块方式加入]</li></ul></li></ol></li><li><p>2019.08.03-2019.08.05</p><ol><li>解决travis 部署相关问题<ul><li>ssh无法部署成功,切换token方式</li><li>github 域名无法解析 [问题:CNAME]</li><li>基于token实现 github coding同时部署</li></ul></li></ol></li><li><p>2019.08.03</p><ol><li>基于replica v2.1.0 完成基础功能并接入</li><li>接入持续集成自动部署方案 travis</li></ol></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2019.11.12&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/qq_32454537/article/details/79482914&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度收录
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="https://blog.tdouguo.com/cn/about.html"/>
+    <id>https://blog.tdouguo.com/cn/about.html</id>
+    <published>2019-11-12T09:14:22.000Z</published>
+    <updated>2019-11-12T09:14:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>~~ 您的内心飘过一万个 *** </p><p>这他喵的肿么会是空的呢 ？</p><p>没错 我懒<del>~</del></p><p>去我的新站点看看吧</p><p><a href="https://blog.t-dou.net" target="_blank" rel="noopener">https://blog.t-dou.net</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;~~ 您的内心飘过一万个 *** &lt;/p&gt;
+&lt;p&gt;这他喵的肿么会是空的呢 ？&lt;/p&gt;
+&lt;p&gt;没错 我懒&lt;del&gt;~&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;去我的新站点看看吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.t-dou.net&quot; target=&quot;_blank&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-同时部署Github&amp;coding证书过期申请失败原因以及解决方案</title>
+    <link href="https://blog.tdouguo.com/cn/4195271328.html"/>
+    <id>https://blog.tdouguo.com/cn/4195271328.html</id>
+    <published>2019-11-11T10:32:26.000Z</published>
+    <updated>2019-11-11T10:32:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前沿（吹牛逼）"><a href="#前沿（吹牛逼）" class="headerlink" title="前沿（吹牛逼）"></a>前沿（吹牛逼）</h1><p>每天码搬砖中~~</p><p>突然有一天想去看看自己网站 欣赏一下自己作品 </p><p>打开 咦这是为啥 显示证书不可用了</p><p>因我网站部署在github和coding上</p><p>我是国内访问所以去coding 看了一下 好吧<del>~ 过期了 coding域名证书为3个月</del>（内心飘过1万个 ***）</p><h1 id="问题以及解决方案"><a href="#问题以及解决方案" class="headerlink" title="问题以及解决方案"></a>问题以及解决方案</h1><p>找到问题后 点击重新申请 显示的以下截图<br><a href="http://tdou-cc.tdouguo.com/hexo/coding_err.jpg" target="_blank" rel="noopener">!</a><br>仔细检查后发现还不行 google 一番后+(邮件联系coding技术支持)发现了原理</p><p>因第一次部署 dns还未存在缓存 所以coding默认认为他那里唯一解析直接同意证书申请了</p><p>但第二次因阿里云 境外解析为github  默认解析为coding</p><p>所以他获取证书时候不知道哪个是主哪个为辅 所以需要临时把境外解析暂停解析<br><a href="http://tdou-cc.tdouguo.com/hexo/ali_config.jpg" target="_blank" rel="noopener">!</a></p><p>百度大概需要5分钟(实测 2 3s把 ) 暂停后重新申请即可~~</p><p><a href="http://tdou-cc.tdouguo.com/hexo/coding_ok.jpg" target="_blank" rel="noopener">!</a></p><hr><h2 id="华丽的分割线"><a href="#华丽的分割线" class="headerlink" title="华丽的分割线"></a>华丽的分割线</h2><p>继续装逼中<del>~</del></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前沿（吹牛逼）&quot;&gt;&lt;a href=&quot;#前沿（吹牛逼）&quot; class=&quot;headerlink&quot; title=&quot;前沿（吹牛逼）&quot;&gt;&lt;/a&gt;前沿（吹牛逼）&lt;/h1&gt;&lt;p&gt;每天码搬砖中~~&lt;/p&gt;
+&lt;p&gt;突然有一天想去看看自己网站 欣赏一下自己作品 &lt;/p&gt;
+&lt;p&gt;打开 
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://blog.tdouguo.com/categories/Hexo/"/>
+    
+    
+      <category term="SSL" scheme="https://blog.tdouguo.com/tags/SSL/"/>
+    
+      <category term="域名证书" scheme="https://blog.tdouguo.com/tags/%E5%9F%9F%E5%90%8D%E8%AF%81%E4%B9%A6/"/>
+    
+      <category term="Coding" scheme="https://blog.tdouguo.com/tags/Coding/"/>
+    
+      <category term="Github" scheme="https://blog.tdouguo.com/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unity 开源框架推荐 | Framework</title>
+    <link href="https://blog.tdouguo.com/cn/u3d-framework.html"/>
+    <id>https://blog.tdouguo.com/cn/u3d-framework.html</id>
+    <published>2019-10-29T03:24:35.000Z</published>
+    <updated>2019-10-29T03:24:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ellan-Jiang-Game-Framework"><a href="#Ellan-Jiang-Game-Framework" class="headerlink" title="Ellan Jiang @Game Framework"></a>Ellan Jiang @Game Framework</h1><ul><li><p>首页: <a href="http://gameframework.cn" target="_blank" rel="noopener">http://gameframework.cn</a></p></li><li><p>github: (1.5K Star)<a href="https://github.com/EllanJiang/GameFramework" target="_blank" rel="noopener">GameFramework</a> </p></li><li><p>github: <a href="https://github.com/EllanJiang/UnityGameFramework" target="_blank" rel="noopener">https://github.com/EllanJiang/UnityGameFramework</a></p></li><li><p>简介</p><ul><li>Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。</li><li>包含18 个内置模块<ul><li>全局配置 (Config)  </li><li>数据结点 (Data Node) </li><li>数据表 (Data Table) </li><li>调试器 (Debugger) </li><li>下载 (Download) </li><li>实体 (Entity) </li><li>事件 (Event)  </li><li>有限状态机 (FSM)  </li><li>本地化 (Localization) </li><li>网络 (Network) </li><li>对象池 (Object Pool) </li><li>流程 (Procedure) </li><li>资源 (Resource) </li><li>场景 (Scene) </li><li>配置 (Setting) </li><li>声音 (Sound) </li><li>界面 (UI) </li><li>Web 请求 (Web Request)</li></ul></li></ul></li></ul><h1 id="熊猫-ET"><a href="#熊猫-ET" class="headerlink" title="熊猫 @ET"></a>熊猫 @ET</h1><ul><li><p>github: (2.8k Star)<a href="https://github.com/egametang/ET" target="_blank" rel="noopener">ET</a></p></li><li><p><a href="https://bbs.honorworkroom.com/forum.php" target="_blank" rel="noopener">论坛</a></p></li><li><p>简介</p><ul><li>ET是一个开源的游戏客户端（基于unity3d）服务端双端框架，服务端是使用C# .net core开发的分布式游戏服务端，其特点是开发效率高，性能强，双端共享逻辑代码，客户端服务端热更机制完善，同时支持可靠udp tcp websocket协议，支持服务端3D recast寻路等等</li></ul></li></ul><h1 id="Catlib"><a href="#Catlib" class="headerlink" title="Catlib"></a>Catlib</h1><ul><li><p>首页:</p><ul><li>英文: <a href="https://catlib.io" target="_blank" rel="noopener">https://catlib.io</a></li><li>中文: <a href="https://cn.catlib.io" target="_blank" rel="noopener">https://cn.catlib.io</a></li></ul></li><li><p>github: <a href="https://github.com/CatLib/CatLib" target="_blank" rel="noopener">Catlib</a></p></li><li><p>github: <a href="https://github.com/CatLib/Core" target="_blank" rel="noopener">Core</a></p></li><li><p>简介</p><ul><li>CatLib 是一套渐进式的服务提供者框架。框架为客户端提供多个实现，并把他们从多个实现中解耦出来。服务提供者的改变对它们的客户端是透明的，这样提供了更好的可扩展性。她不仅易于上手，还便于与第三方库或既有项目整合。</li><li>CatLib Core 是最小可用框架。仅提供最基础的功能，是其他框架开发者作为基础的理想选择。</li><li>CatLib For Unity 在Framework的基础上增加了对Unity的专有组件支持（要求Unity 2017+）。</li></ul></li></ul><blockquote><p>完整的文档体系 优美的代码解决方案 建议一看</p></blockquote><h1 id="凉鞋-QFramework"><a href="#凉鞋-QFramework" class="headerlink" title="凉鞋 @QFramework"></a>凉鞋 @QFramework</h1><ul><li><p>github: (1.3k Star)<a href="https://github.com/liangxiegame/QFramework" target="_blank" rel="noopener">QFramework</a></p></li><li><p>简介</p><ul><li>QFramework 是一套 渐进式 的 快速开发 框架。目标是作为无框架经验的公司、独立开发者、以及 Unity3D 初学者们的 第一套框架。框架内部积累了多个项目的在各个技术方向的解决方案。学习成本低，接入成本低，重构成本低，二次开发成本低，文档内容丰富(提供使用方式以及原理、开发文档)。</li></ul></li></ul><h1 id="高凯-MyUnityFrameWork"><a href="#高凯-MyUnityFrameWork" class="headerlink" title="高凯 @MyUnityFrameWork"></a>高凯 @MyUnityFrameWork</h1><ul><li><p>github: <a href="https://github.com/GaoKaiHaHa/MyUnityFrameWork" target="_blank" rel="noopener">MyUnityFrameWork</a></p></li><li><p>简介</p><ul><li>Unity框架，组件可插拔，可视化编辑，代码自动生成。<br>　　- 包含资源加载，配置加载，数据加载，UI管理，音频管理,日志管理，动画系统，特效系统等，以及对应编辑器工具<br>　　- 支持Android、Ios、PC、WEBGL<br>　　- 项目中的Script/Core目录就是完整框架<br>　　- <a href="https://github.com/GaoKaiHaHa/MyUnityFrameWork/wiki/%E9%A6%96%E9%A1%B5" target="_blank" rel="noopener">中文维基</a><br>　　- <a href="https://github.com/GaoKaiHaHa/MyUnityFrameWork/wiki" target="_blank" rel="noopener">English Wiki</a></li></ul></li></ul><hr><p>如有更多优秀框架 欢迎您的推荐 , 下方评论或发生至我的邮箱链接: <a href="mailto:kevin@kylin.app" target="_blank" rel="noopener">kevin@kylin.app</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Ellan-Jiang-Game-Framework&quot;&gt;&lt;a href=&quot;#Ellan-Jiang-Game-Framework&quot; class=&quot;headerlink&quot; title=&quot;Ellan Jiang @Game Framework&quot;&gt;&lt;/a&gt;Ellan J
+      
+    
+    </summary>
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/categories/Unity/"/>
+    
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/tags/Unity/"/>
+    
+      <category term="Framework" scheme="https://blog.tdouguo.com/tags/Framework/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建(Hexo+replica主题) 之统计 百度&amp;Google&amp;FlagCounter 篇</title>
+    <link href="https://blog.tdouguo.com/cn/1622847258.html"/>
+    <id>https://blog.tdouguo.com/cn/1622847258.html</id>
+    <published>2019-09-23T16:41:11.000Z</published>
+    <updated>2019-09-23T16:41:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a><a href="https://tongji.baidu.com/" target="_blank" rel="noopener">百度统计</a></h1><ol><li>登录 网站 <a href="https://tongji.baidu.com/" target="_blank" rel="noopener">https://tongji.baidu.com/</a> 并注册账号</li></ol><ol start="2"><li>下拉 页面中间部分 选择【网站统计】</li></ol><p><img src="http://tdou-cc.tdouguo.com/tongji/baidu_01.png" alt="images"></p><ol start="3"><li>如登录正常应该会跳转 <a href="https://tongji.baidu.com/web/xxx/homepage/index" target="_blank" rel="noopener">https://tongji.baidu.com/web/xxx/homepage/index</a> 页面</li></ol><ol start="4"><li>选择 【设置】 添加站点</li></ol><p><img src="http://tdou-cc.tdouguo.com/tongji/baidu_02.png" alt="images"></p><p>注意 网站域名是指单独域名 站点首页是完整的首页</p><p>例如:域名 blog.0x96m.com,  站点首页:blog.0x96m.com 或 blog.0x96m.com/index.html </p><p><img src="http://tdou-cc.tdouguo.com/tongji/baidu_error.png" alt="images"></p><p><img src="http://tdou-cc.tdouguo.com/tongji/baidu_error_fix.png" alt="images"></p><ol start="5"><li>添加成功后 获取代码 并添加到 config.yml文件中 baidutongji</li></ol><p><img src="http://tdou-cc.tdouguo.com/tongji/baidu_get_code.png" alt="images"></p><h1 id="敬请期待-Google-Analytics"><a href="#敬请期待-Google-Analytics" class="headerlink" title="[敬请期待] Google Analytics"></a>[敬请期待] <a href="https://google.com/analytics/" target="_blank" rel="noopener">Google Analytics</a></h1><h1 id="敬请期待-访客统计FlagCounter"><a href="#敬请期待-访客统计FlagCounter" class="headerlink" title="[敬请期待] 访客统计FlagCounter"></a>[敬请期待] <a href="http://www.flagcounter.com/" target="_blank" rel="noopener">访客统计FlagCounter</a></h1><ul><li>参考: <ul><li><a href="https://blog.csdn.net/kl28978113/article/details/79500217" target="_blank" rel="noopener">csdn 使用 访客统计FlagCounter</a></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;百度统计&quot;&gt;&lt;a href=&quot;#百度统计&quot; class=&quot;headerlink&quot; title=&quot;百度统计&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://tongji.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度统计&lt;/a
+      
+    
+    </summary>
+    
+      <category term="博客搭建(Hexo+replica主题)" scheme="https://blog.tdouguo.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo-replica%E4%B8%BB%E9%A2%98/"/>
+    
+    
+      <category term="百度统计" scheme="https://blog.tdouguo.com/tags/%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="Google-Analytics" scheme="https://blog.tdouguo.com/tags/Google-Analytics/"/>
+    
+      <category term="FlagCounter" scheme="https://blog.tdouguo.com/tags/FlagCounter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unity Developer</title>
+    <link href="https://blog.tdouguo.com/cn/1217436667.html"/>
+    <id>https://blog.tdouguo.com/cn/1217436667.html</id>
+    <published>2019-09-23T16:38:11.000Z</published>
+    <updated>2019-09-23T16:38:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>3D图形学、渲染<ul><li>渲染管道流程</li><li>3D渲染优化</li><li>延迟渲染</li><li>Shader编程。</li></ul></li><li>数学、数据结构<ul><li>二维矩阵</li><li>三维矩阵相乘</li><li>转置</li><li>向量点乘和叉乘方法和意义</li><li>四元数、欧拉数</li><li>二叉树</li><li>堆栈</li><li>线性表</li><li>链表</li></ul></li><li>unity3d<ul><li>熟悉NGUI（原理机制）</li><li>物理引擎</li><li>DrawCall优化</li><li>AI、自动寻路</li><li>做unity3d遇到的坑（unity吭特多，只有亲手做过才知道）</li><li>协同程序</li><li>动画系统</li><li>光照烘培</li><li>Trigger 异步加载（AssetBundle.LoadAsync） </li></ul></li></ul><ul><li><p>u3d</p><ul><li>网络</li><li>导航</li><li>特效、粒子系统、拖尾渲染器、线渲染器、镜头光晕、光晕、投影器</li><li>物理、刚体、角色控制器、碰撞器、布料、关节、恒力</li><li>音频</li><li>渲染、摄像机、天空盒、耀斑层、GUI层、灯管、遮挡剔除、LOD、GUI纹理、GUI文本</li><li>动画</li><li>网络视图</li><li>锋利区域</li></ul></li><li><p>u3d数据交互</p><ul><li>Unity kinect 体感游戏</li><li>PlayerPrefs</li><li>Mysql等</li><li>Txt、Ini、excle、php、xml</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;3D图形学、渲染&lt;ul&gt;
+&lt;li&gt;渲染管道流程&lt;/li&gt;
+&lt;li&gt;3D渲染优化&lt;/li&gt;
+&lt;li&gt;延迟渲染&lt;/li&gt;
+&lt;li&gt;Shader编程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数学、数据结构&lt;ul&gt;
+&lt;li&gt;二维矩阵&lt;/li&gt;
+&lt;li&gt;三维矩阵相乘&lt;
+      
+    
+    </summary>
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/categories/Unity/"/>
+    
+    
+      <category term="U3D学习路线" scheme="https://blog.tdouguo.com/tags/U3D%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>宝塔面板Mysql无法启动解决方案</title>
+    <link href="https://blog.tdouguo.com/cn/314575654.html"/>
+    <id>https://blog.tdouguo.com/cn/314575654.html</id>
+    <published>2019-09-23T16:00:33.000Z</published>
+    <updated>2019-09-23T16:00:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>问题描述:</p><ol><li>在宝塔界面Mysql显示状态为关闭, 尝试启动后显示启动成功但是状态未改变</li><li>远程连接服务器执行 /etc/init.d/mysql status 查看状态 为正常运行</li><li></li></ol><ol><li>3306 端口是否在宝塔面板-安全 放行</li><li>云服务器提供商 安全组 入口向3306端口 开放</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;问题描述:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在宝塔界面Mysql显示状态为关闭, 尝试启动后显示启动成功但是状态未改变&lt;/li&gt;
+&lt;li&gt;远程连接服务器执行 /etc/init.d/mysql status 查看状态 为正常运行&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol
+      
+    
+    </summary>
+    
+      <category term="宝塔面板" scheme="https://blog.tdouguo.com/categories/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/"/>
+    
+    
+      <category term="解决方案" scheme="https://blog.tdouguo.com/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+      <category term="mysql" scheme="https://blog.tdouguo.com/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建(Hexo+replica主题) 之 hexo _config.yml 详解</title>
+    <link href="https://blog.tdouguo.com/cn/hexo_config.html"/>
+    <id>https://blog.tdouguo.com/cn/hexo_config.html</id>
+    <published>2019-09-23T15:40:03.000Z</published>
+    <updated>2019-09-23T15:40:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>_config.yml</p><ul><li><p>分类名映射</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">category_map:  </span><br><span class="line">生活: life</span><br><span class="line">其他: other</span><br></pre></td></tr></table></figure></li><li><p>标签名映射</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">tag_map:</span><br><span class="line">生活: life</span><br><span class="line">其他: other</span><br></pre></td></tr></table></figure></li><li><p><a href="https://www.cnblogs.com/liziczh/p/9318665.html" target="_blank" rel="noopener"></a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;_config.yml&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;分类名映射&lt;/p&gt;
+  &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br
+      
+    
+    </summary>
+    
+      <category term="博客搭建(Hexo+replica主题)" scheme="https://blog.tdouguo.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo-replica%E4%B8%BB%E9%A2%98/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.tdouguo.com/tags/hexo/"/>
+    
+      <category term="seo" scheme="https://blog.tdouguo.com/tags/seo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CC许可协议</title>
+    <link href="https://blog.tdouguo.com/cn/cc4_0.html"/>
+    <id>https://blog.tdouguo.com/cn/cc4_0.html</id>
+    <published>2019-09-22T18:24:13.000Z</published>
+    <updated>2019-09-22T18:24:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>协议内容</p><p>CC许可协议（知识共享许可协议）是博客中最常见的许可协议。协议中主要规定了以下四种权利：</p><ul><li>署名(BY)：转载此作品时要附上原作者名称等信息。</li><li>非商业使用(NC)：这个作品不能被用作商业目的。</li><li>禁止演绎(ND)：转载时不能修改原内容。</li><li>相同方式共享(SA)：如果转载时修改了原内容那必须以相同的CC许可协议发布修改后的内容。</li></ul><p>四种权利可以相互组合形成最终协议，但由于一些原因（比如ND与SA协议互斥），目前基本上只有以下六种组合协议：</p><ul><li>知识共享-署名(CC-BY)</li><li>知识共享-署名-相同方式共享(CC-BY-SA）</li><li>知识共享-署名-非商业性(CC-BY-NC)</li><li>知识共享-署名-禁止演绎(CC-BY-ND)</li><li>知识共享-署名-非商业性-禁止演绎(CC-BY-NC-ND)</li><li>知识共享-署名-非商业性-相同方式共享(CC-BY-NC-SA)</li></ul><p><strong><em>参考链接</em></strong></p><ul><li><a href="https://blog.csdn.net/chroming/article/details/77104869" target="_blank" rel="noopener">https://blog.csdn.net/chroming/article/details/77104869</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;协议内容&lt;/p&gt;
+&lt;p&gt;CC许可协议（知识共享许可协议）是博客中最常见的许可协议。协议中主要规定了以下四种权利：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;署名(BY)：转载此作品时要附上原作者名称等信息。&lt;/li&gt;
+&lt;li&gt;非商业使用(NC)：这个作品不能被用作商业目的。&lt;/li&gt;
+&lt;l
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建(Hexo+replica主题) 之 Url优化篇 | hexo permalink abbrlink</title>
+    <link href="https://blog.tdouguo.com/cn/hexo_seo_url.html"/>
+    <id>https://blog.tdouguo.com/cn/hexo_seo_url.html</id>
+    <published>2019-09-22T18:17:08.000Z</published>
+    <updated>2019-09-22T18:17:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>文章URL优化策略（一）：自定义id属性</li></ul><p>1.为每篇文章Front-matter添加id属性，作为文章URL，确保id属性的值满足以上条件。</p><p>2.编辑站点配置文件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># permalink: :year/:month/:day/:title.html  # 默认永久链接冗长，title中存在中文字符。</span><br><span class="line">permalink: :id.html # 尽量短，层次少，全小写，中划线连字，具有描述性，包含关键词</span><br></pre></td></tr></table></figure><ul><li>文章URL优化策略（二）：abbrlink链接唯一化</li></ul><p>1.安装abbrlink插件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure><p>2.编辑站点配置文件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">permalink: :abbrlink.html   # 生成唯一链接</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32  # 算法：crc16(default) and crc32</span><br><span class="line">  rep: dec    # 进制：dec(default) and hex</span><br></pre></td></tr></table></figure><p>标签&amp;分类URL优化</p><p>我们在对文章分类或添加标签时，难免会用到中文或其他字符，而我们又在尽量避免中文字符出现在URL中，所以我们需要对中文分类&amp;标签进行映射操作。</p><p><strong><em>参考链接</em></strong></p><ul><li><a href="https://blog.csdn.net/yanzi1225627/article/details/77761488" target="_blank" rel="noopener">https://blog.csdn.net/yanzi1225627/article/details/77761488</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;文章URL优化策略（一）：自定义id属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.为每篇文章Front-matter添加id属性，作为文章URL，确保id属性的值满足以上条件。&lt;/p&gt;
+&lt;p&gt;2.编辑站点配置文件：&lt;/p&gt;
+&lt;figure class=&quot;highligh
+      
+    
+    </summary>
+    
+      <category term="博客搭建(Hexo+replica主题)" scheme="https://blog.tdouguo.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo-replica%E4%B8%BB%E9%A2%98/"/>
+    
+    
+      <category term="hexo" scheme="https://blog.tdouguo.com/tags/hexo/"/>
+    
+      <category term="SEO" scheme="https://blog.tdouguo.com/tags/SEO/"/>
+    
+      <category term="优化" scheme="https://blog.tdouguo.com/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你会自我介绍吗 | 如何做好自我介绍？</title>
+    <link href="https://blog.tdouguo.com/cn/1109781078.html"/>
+    <id>https://blog.tdouguo.com/cn/1109781078.html</id>
+    <published>2019-09-10T16:06:21.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>问题: 如何做好自我介绍 ？</p><p>不管在什么场合做自我介绍时间长与短,都应该分为4个部分</p><p>第一 我是谁我从哪里来</p><p>第二 我因为什么机缘出现在这个场合</p><p>第三 我能给大家带来什么价值</p><p>第四 我希望能够得到大家什么的支持</p><hr><p>版权声明：本文为博主原创文章，遵循 <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC 4.0 BY-SA</a> 版权协议，转载请附上原文出处链接和本声明。<br>本文链接：<a href="https://tdou.cc/cn/egoInfo/" target="_blank" rel="noopener">https://tdou.cc/cn/egoInfo/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;问题: 如何做好自我介绍 ？&lt;/p&gt;
+&lt;p&gt;不管在什么场合做自我介绍时间长与短,都应该分为4个部分&lt;/p&gt;
+&lt;p&gt;第一 我是谁我从哪里来&lt;/p&gt;
+&lt;p&gt;第二 我因为什么机缘出现在这个场合&lt;/p&gt;
+&lt;p&gt;第三 我能给大家带来什么价值&lt;/p&gt;
+&lt;p&gt;第四 我希望能够得到大家什么
+      
+    
+    </summary>
+    
+      <category term="职场" scheme="https://blog.tdouguo.com/categories/%E8%81%8C%E5%9C%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Unity 性能优化 | 贴图优化、声音优化</title>
+    <link href="https://blog.tdouguo.com/cn/u3d-youhua.html"/>
+    <id>https://blog.tdouguo.com/cn/u3d-youhua.html</id>
+    <published>2019-09-10T05:14:05.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="图片相关优化"><a href="#图片相关优化" class="headerlink" title="图片相关优化"></a>图片相关优化</h2><ul><li>压缩格式优化 <a href="https://www.jianshu.com/p/f7c3741f22af" target="_blank" rel="noopener">简书</a><ul><li>高清晰无压缩 &gt; RGBA32 缺点 内存占用大, 显示运行内存</li><li>中清晰中压缩 &gt; RGBA16+Dithering(TexturePacker)内使用FloydSteinberg算法处理<ul><li>Dithering抖动对拉伸放大是不友好的</li><li>RGB16针对不带透明通道非2次幂图片, 但是效果略逊于RGB32。</li></ul></li><li>低清晰高压缩 &gt; ETC1+Alpha/PVRTC4<ul><li>ETC1不带透明通道, 需要外挂一个携带Alpha图片</li><li>使用Shader支持 在Shader 中吧RGB 和 A 合并 RGBA</li></ul></li><li>PVRTC4<ul><li>必须是2次幂</li></ul></li><li>[Android]<ul><li>ETC1, 不支持dxt </li></ul></li><li>[Iphone/Ipand]<ul><li>PVRTC4 压缩默认</li><li>RGBA16 清晰度高但是渐变不合适</li><li>RGBA32 高保真</li><li>16it/尺寸减半 压缩 UI Icon </li></ul></li></ul></li></ul><h2 id="声音相关优化"><a href="#声音相关优化" class="headerlink" title="声音相关优化"></a>声音相关优化</h2><p>1.取消Preload Audio Data（预加载音频数据）选项</p><ol start="2"><li>把Override for Android选项勾上，并且设置Load Type为Streaming。<blockquote><p>注：Load Type=Streaming    音频剪辑将放入缓存区中，并且从缓存区中播放，一旦播放完后，便被卸载掉</p></blockquote></li></ol><p>推荐将Load Type设置为Decompress on Load（在加载时解压）会运行的更流畅（并不是使用于任何的音频，只是使用于频繁使用的音频）</p><ul><li>参考链接:<br>  -<a href="http://mp.weixin.qq.com/s/4BEC9IrrTUn9_Q81_cWt2g" target="_blank" rel="noopener">微信公众号(游戏蛮牛)-Unity性能优化—声音优化</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;图片相关优化&quot;&gt;&lt;a href=&quot;#图片相关优化&quot; class=&quot;headerlink&quot; title=&quot;图片相关优化&quot;&gt;&lt;/a&gt;图片相关优化&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;压缩格式优化 &lt;a href=&quot;https://www.jianshu.com/p/f7c374
+      
+    
+    </summary>
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/categories/Unity/"/>
+    
+    
+      <category term="性能优化" scheme="https://blog.tdouguo.com/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+      <category term="Unity图片优化" scheme="https://blog.tdouguo.com/tags/Unity%E5%9B%BE%E7%89%87%E4%BC%98%E5%8C%96/"/>
+    
+      <category term="Unity贴图优化" scheme="https://blog.tdouguo.com/tags/Unity%E8%B4%B4%E5%9B%BE%E4%BC%98%E5%8C%96/"/>
+    
+      <category term="Unity声音优化" scheme="https://blog.tdouguo.com/tags/Unity%E5%A3%B0%E9%9F%B3%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019 AIproCon 开发者大会 PPT</title>
+    <link href="https://blog.tdouguo.com/cn/AIProCon-PPT.html"/>
+    <id>https://blog.tdouguo.com/cn/AIProCon-PPT.html</id>
+    <published>2019-09-09T05:51:25.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>官网地址: <a href="http://aiprocon.csdn.net" target="_blank" rel="noopener">http://aiprocon.csdn.net</a></p><p>官方PPT链接: <a href="https://download.csdn.net/meeting/meeting_detail/50" target="_blank" rel="noopener">https://download.csdn.net/meeting/meeting_detail/50</a></p><p>官方大会现场照片: <a href="https://v.alltuu.com/album/1021732546/?from=appmessage" target="_blank" rel="noopener">https://v.alltuu.com/album/1021732546/?from=appmessage</a></p><blockquote><p>注意: 如下载 PPT 请尽量从官方下载链接下载,以便官方统计数据提供更好的支持,谢谢。</p></blockquote><p>百度网盘资料来源参会者的照片,录像 官方PPT</p><ul><li>[AIProCon 部分参会者提供照片、录像、PPT]<a href="https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA" target="_blank" rel="noopener">https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA</a><br>提取码：b0hu</li><li>[AIProCon-PPT] <a href="https://pan.baidu.com/s/16PbWiLY14SDsTfmB2x10mQ" target="_blank" rel="noopener">https://pan.baidu.com/s/16PbWiLY14SDsTfmB2x10mQ</a><br>提取码：jg03</li></ul><h2 id="知识图谱论坛"><a href="#知识图谱论坛" class="headerlink" title="知识图谱论坛"></a>知识图谱论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/788" target="_blank" rel="noopener">《基于KG的认知智能中台思考及产业化实践》</a><blockquote><p>王昊奋 OpenKG联合创始人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/11/9421593ab8da917daa7badb1561c9689.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E8%AE%BA%E5%9D%9B/%E3%80%8A%E5%9F%BA%E4%BA%8EKG%E7%9A%84%E8%AE%A4%E7%9F%A5%E6%99%BA%E8%83%BD%E4%B8%AD%E5%8F%B0%E6%80%9D%E8%80%83%E5%8F%8A%E4%BA%A7%E4%B8%9A%E5%8C%96%E5%AE%9E%E8%B7%B5%E3%80%8B%E7%8E%8B%E6%98%8A%E5%A5%8B.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/780" target="_blank" rel="noopener">《生活服务领域知识图谱的构建及应用》</a><blockquote><p>张富峥 美团点评NLP中心，知识图谱团队负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/09/dfa4095df65751d06c5192722ac37c3f.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E8%AE%BA%E5%9D%9B/%E3%80%8A%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E9%A2%86%E5%9F%9F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%9A%84%E6%9E%84%E5%BB%BA%E5%8F%8A%E5%BA%94%E7%94%A8%E3%80%8B%E5%BC%A0%E5%AF%8C%E5%B3%A5.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><h2 id="自然语言处理论坛"><a href="#自然语言处理论坛" class="headerlink" title="自然语言处理论坛"></a>自然语言处理论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/763" target="_blank" rel="noopener">《自然语言理解模型XLNet》</a><blockquote><p>杨植麟 XLNet作者,睿科伦智能联合创始人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/3f3a27b8b9cd57519c5054a701513ceb.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%BA%E5%9D%9B/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%90%86%E8%A7%A3%E6%A8%A1%E5%9E%8BXLNet%E3%80%8B%E6%9D%A8%E6%A4%8D%E9%BA%9F.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/777" target="_blank" rel="noopener">《Bert和Transformer到底学到了什么？》</a><blockquote><p>张俊林 新浪微博机器学习团队AI Lab负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/939c2dfebc7a13a1387cae569171f57c.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%BA%E5%9D%9B/%E3%80%8ABert%E5%92%8CTransformer%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F%E3%80%8B%E5%BC%A0%E4%BF%8A%E6%9E%97.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/776" target="_blank" rel="noopener">《全双工语音对话以及在智能硬件上的应用》</a><blockquote><p>周力 微软小冰全球首席架构师及研发总监</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/d4da9e3c49fa3cfbba12d9fd0278cb08.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%BA%E5%9D%9B/%E3%80%8A%E5%85%A8%E5%8F%8C%E5%B7%A5%E8%AF%AD%E9%9F%B3%E5%AF%B9%E8%AF%9D%E4%BB%A5%E5%8F%8A%E5%9C%A8%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%8B%E5%91%A8%E5%8A%9B.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/774" target="_blank" rel="noopener">《自然语言处理在虚拟生命中的工程实践》</a><blockquote><p>邵浩 上海瓦歌智能有限公司总经理,狗尾草科技人工智能研究院院长</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/5d46c67f4bfb1e1a5104a38c6000ed1f.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%BA%E5%9D%9B/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%9C%A8%E8%99%9A%E6%8B%9F%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E3%80%8B%E9%82%B5%E6%B5%A9.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><h2 id="AI-DevOps论坛"><a href="#AI-DevOps论坛" class="headerlink" title="AI+DevOps论坛"></a>AI+DevOps论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/772" target="_blank" rel="noopener">《阿里云智能运维的自动化三剑客》</a><blockquote><p>滕圣波 阿里巴巴高级技术专家</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/804b702f926a3b5a8dbc528d305d86c7.pdf" target="_blank" rel="noopener">官方PPT下载链接</a> </li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/AI%2BDevOps%E8%AE%BA%E5%9D%9B/%E3%80%8A%E9%98%BF%E9%87%8C%E4%BA%91%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%89%E5%89%91%E5%AE%A2%E3%80%8B%E6%BB%95%E5%9C%A3%E6%B3%A2.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><h2 id="AI-小程序"><a href="#AI-小程序" class="headerlink" title="AI+小程序"></a>AI+小程序</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/773" target="_blank" rel="noopener">《快应用助力AI，驱动服务落地》</a><blockquote><p>杨亮 小米资深软件工程师,快应用框架技术总负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/ef4f28fd975c48bb54881460a4632053.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/AI%2B%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E3%80%8A%E5%BF%AB%E5%BA%94%E7%94%A8%E5%8A%A9%E5%8A%9BAI%EF%BC%8C%E9%A9%B1%E5%8A%A8%E6%9C%8D%E5%8A%A1%E8%90%BD%E5%9C%B0%E3%80%8B%E6%9D%A8%E4%BA%AE.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><h2 id="机器学习论坛"><a href="#机器学习论坛" class="headerlink" title="机器学习论坛"></a>机器学习论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/789" target="_blank" rel="noopener">《如何构建面向大型制造业的一站式AI工作平台》</a><blockquote><p>任如意、廖国龙 任如意，上汽集团云计算中心AI应用部门技术负责人；廖国龙，ThoughtWorks AI系统架构师</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/11/05389425194580fea10dd444f290b490.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8A%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E9%9D%A2%E5%90%91%E5%A4%A7%E5%9E%8B%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84%E4%B8%80%E7%AB%99%E5%BC%8FAI%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0%E3%80%8B%E4%BB%BB%E5%A6%82%E6%84%8F%26%E5%BB%96%E5%9B%BD%E9%BE%99.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/785" target="_blank" rel="noopener">《第三代AI思考与实践》</a><blockquote><p>RealAI（瑞莱智慧）CEO</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/10/758d3a697eb2a658dc2ea5d5cfda01a7.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8A%E7%AC%AC%E4%B8%89%E4%BB%A3AI%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8BRealAI.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/784" target="_blank" rel="noopener">《滴滴机器学习平台k8s落地与实践》</a><blockquote><p>唐博 滴滴出行资深软件工程师</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/10/758d3a697eb2a658dc2ea5d5cfda01a7.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8A%E6%BB%B4%E6%BB%B4%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0k8s%E8%90%BD%E5%9C%B0%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%E5%94%90%E5%8D%9A.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="《3D机器人视觉在工业自动化和仓储物流领域的应用》">《3D机器人视觉在工业自动化和仓储物流领域的应用》</a><blockquote><p>王灿 杭州灵西机器人首席科学家</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/10/461b095364c3bc0c64552906fb8c9210.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8A3D%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%86%E8%A7%89%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E5%92%8C%E4%BB%93%E5%82%A8%E7%89%A9%E6%B5%81%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%8B%E7%8E%8B%E7%81%BF.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/775" target="_blank" rel="noopener">《Graph Embedding及其在知乎的实践》</a><blockquote><p>孙付伟 知乎算法团队负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/d6c7ac725f82c469ff92a08cb8559fc8.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8AGraph%20Embedding%E5%8F%8A%E5%85%B6%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E5%AE%9E%E8%B7%B5%E3%80%8B%E5%AD%99%E4%BB%98%E4%BC%9F.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/770" target="_blank" rel="noopener">《快速构建高性能AI应用——AI特征数据库技术实践》</a><blockquote><p>陈迪豪 第四范式资深AI架构师</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/58afe9d817183183b7cec3f26644246c.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%BA%E5%9D%9B/%E3%80%8A%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E9%AB%98%E6%80%A7%E8%83%BDAI%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94AI%E7%89%B9%E5%BE%81%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E3%80%8B%E9%99%88%E8%BF%AA%E8%B1%AA.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><h2 id="计算机视觉论坛"><a href="#计算机视觉论坛" class="headerlink" title="计算机视觉论坛"></a>计算机视觉论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/779" target="_blank" rel="noopener">《互联网视频基础技术探索及其应用》</a><blockquote><p>文石磊 百度视觉技术部主任架构师，视频基础技术团队技术负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/09/5e2be7b516218a4f1e6a0aaf9917c8a5.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E5%9D%9B/%E3%80%8A%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E3%80%8B%E6%96%87%E7%9F%B3%E7%A3%8A.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/771" target="_blank" rel="noopener">《高效轻量级深度模型的研究与实践》</a><blockquote><p>张祥雨 旷视研究院主任研究员,基础模型组负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/bffaacc1549fd44216476df6b2939612.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E5%9D%9B/%E3%80%8A%E9%AB%98%E6%95%88%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%B7%B1%E5%BA%A6%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%E5%BC%A0%E7%A5%A5%E9%9B%A8.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/769" target="_blank" rel="noopener">《端上视觉技术的极致效率及其短视频应用实践》</a><blockquote><p>王华彦 快手硅谷实验室负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/f19a4a62b3d45398125e3407d36edaba.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E5%9D%9B/%E3%80%8A%E7%AB%AF%E4%B8%8A%E8%A7%86%E8%A7%89%E6%8A%80%E6%9C%AF%E7%9A%84%E6%9E%81%E8%87%B4%E6%95%88%E7%8E%87%E5%8F%8A%E5%85%B6%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5%E3%80%8B%E7%8E%8B%E5%8D%8E%E5%BD%A6.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><h2 id="深度学习实训营"><a href="#深度学习实训营" class="headerlink" title="深度学习实训营"></a>深度学习实训营</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/768" target="_blank" rel="noopener">李沐「​深度学习实训营」课件（part 1）</a><blockquote><p>李沐 亚马逊首席科学家</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/e14968f076132d58e7e8f5f7ac621aa2.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%AE%AD%E8%90%A5/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%AE%AD%E8%90%A5(part1)%E3%80%8B%E6%9D%8E%E6%B2%90.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><h2 id="推荐系统论坛"><a href="#推荐系统论坛" class="headerlink" title="推荐系统论坛"></a>推荐系统论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/766" target="_blank" rel="noopener">《电商中的推荐系统》</a><blockquote><p>殷大伟 京东集团高级总监</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/8c13e3e90df235d00b14868cec5a4d63.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9D%9B/%E3%80%8A%E7%94%B5%E5%95%86%E4%B8%AD%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B%E6%AE%B7%E5%A4%A7%E4%BC%9F.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><h2 id="AI开源技术论坛"><a href="#AI开源技术论坛" class="headerlink" title="AI开源技术论坛"></a>AI开源技术论坛</h2><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/11/b1260c915bc6cf89eec843d8d3664059.pdf" target="_blank" rel="noopener">《Euler：超大规模图深度学习开源框架》</a><blockquote><p>林伟 阿里妈妈搜索广告排序和机制算法负责人<br>  -<a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/11/b1260c915bc6cf89eec843d8d3664059.pdf" target="_blank" rel="noopener">官方PPT下载链接</a><br>  -<a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/AI%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8AEuler%EF%BC%9A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%BE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E3%80%8B%E6%9E%97%E4%BC%9F.pdf" target="_blank" rel="noopener">Github-PPT</a></p></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/786" target="_blank" rel="noopener">《使用 DGL 训练大规模图神经网络》</a><blockquote><p>马超 亚马逊 AWS AI 应用科学家<br>  -<a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/10/3b423c612961d465df35d54bd7a45aed.pdf" target="_blank" rel="noopener">官方PPT下载链接</a><br>  -<a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/AI%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A%E4%BD%BF%E7%94%A8%20DGL%20%E8%AE%AD%E7%BB%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E3%80%8B%E9%A9%AC%E8%B6%85.pdf" target="_blank" rel="noopener">Github-PPT</a></p></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/767" target="_blank" rel="noopener">《基于MACE深度学习框架的落地实践》</a><blockquote><p>何亮亮 小米深度学习框架负责人</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/2616c992205b4ea30a6a442a9bd8a5ae.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/AI%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A%E5%9F%BA%E4%BA%8EMACE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E3%80%8B%E4%BD%95%E4%BA%AE%E4%BA%AE.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><h2 id="5G驱动AIoT技术论坛"><a href="#5G驱动AIoT技术论坛" class="headerlink" title="5G驱动AIoT技术论坛"></a>5G驱动AIoT技术论坛</h2><ul><li><a href="https://download.csdn.net/meeting/speech_preview/782" target="_blank" rel="noopener">《5G时代的爱（AI）如何在物联中轰轰烈烈》</a><blockquote><p>张朝辉 华为IoT标准产业与创新总监</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/10/2bc2e35bd2bd434e0b4a4ac4a812ab0a.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/5G%E9%A9%B1%E5%8A%A8AIoT%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A5G%E6%97%B6%E4%BB%A3%E7%9A%84%E7%88%B1%EF%BC%88AI%EF%BC%89%E5%A6%82%E4%BD%95%E5%9C%A8%E7%89%A9%E8%81%94%E4%B8%AD%E8%BD%B0%E8%BD%B0%E7%83%88%E7%83%88%E3%80%8B%E5%BC%A0%E6%9C%9D%E8%BE%89.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/781" target="_blank" rel="noopener">《5G 驱动 AIoT 多模态智能技术与应用》</a><blockquote><p>梁家恩 云知声董事长、CTO</p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/09/5bc98d5830438b106767449117dfc804.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/5G%E9%A9%B1%E5%8A%A8AIoT%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A5G%20%E9%A9%B1%E5%8A%A8%20AIoT%20%E5%A4%9A%E6%A8%A1%E6%80%81%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8%E3%80%8B%E6%A2%81%E5%AE%B6%E6%81%A9.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul></p><p><ul><li><a href="https://download.csdn.net/meeting/speech_preview/763" target="_blank" rel="noopener">《5G时代的物联网期待重生》</a><blockquote><p>孙松林 北京邮电大学教授、博士生导师 </p><ul><li><a href="https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/3f3a27b8b9cd57519c5054a701513ceb.pdf" target="_blank" rel="noopener">官方PPT下载链接</a></li><li><a href="https://github.com/AIProCon/AIProCon/blob/master/PPT/5G%E9%A9%B1%E5%8A%A8AIoT%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B/%E3%80%8A5G%E6%97%B6%E4%BB%A3%E7%9A%84%E7%89%A9%E8%81%94%E7%BD%91%E6%9C%9F%E5%BE%85%E9%87%8D%E7%94%9F%E3%80%8B%E5%AD%99%E6%9D%BE%E6%9E%97.pdf" target="_blank" rel="noopener">Github-PPT</a></li></ul></blockquote></li></ul><hr></p><p>更新记录:</p><ul><li><p>2019.9.12: [完全同步官网]</p><ul><li>add 知识图谱论坛/《基于KG的认知智能中台思考及产业化实践》王昊奋.pdf</li><li>add 机器学习论坛/《如何构建面向大型制造业的一站式AI工作平台》任如意&amp;廖国龙.pdf</li><li>add 机器学习论坛/《第三代AI思考与实践》RealAI.pdf</li><li>add 机器学习论坛/《滴滴机器学习平台k8s落地与实践》唐博.pdf</li><li>add 机器学习论坛/《3D机器人视觉在工业自动化和仓储物流领域的应用》王灿.pdf</li><li>add AI开源技术论坛/《Euler：超大规模图深度学习开源框架》林伟.pdf</li><li>add AI开源技术论坛/《使用 DGL 训练大规模图神经网络》马超.pdf</li><li>add 5G驱动AIoT技术论坛/《5G时代的爱（AI）如何在物联中轰轰烈烈》张朝辉.pdf</li><li>add 5G驱动AIoT技术论坛/《5G 驱动 AIoT 多模态智能技术与应用》梁家恩.pdf</li></ul></li><li><p>2019.9.10: [未完全同步官网]</p><ul><li>新增 知识图谱论坛 -《生活服务领域知识图谱的构建及应用》张富峥</li><li>新增 计算机视觉论坛 -《互联网视频基础技术探索及其应用》文石磊</li></ul></li><li><p>2019.9.9 : 基础的官网ppt</p></li></ul><hr><p>版权声明：本文为博主原创文章，遵循 <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC 4.0 BY-SA</a> 版权协议，转载请附上原文出处链接和本声明。<br>本文链接：<a href="https://tdou.cc/cn/AIProCon-PPT/" target="_blank" rel="noopener">https://tdou.cc/cn/AIProCon-PPT/</a><br>特殊说明: 如文字内容有错、官方更新PPT、百度网盘链接失效等情况可联系 <a href="mailto:kevin@kylin.app" target="_blank" rel="noopener">kevin@kylin.app</a>修正或 <a href="https://github.com/AIProCon/AIProCon/tree/master/PPT/README.md" target="_blank" rel="noopener">Github</a> 修正 or PR</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;官网地址: &lt;a href=&quot;http://aiprocon.csdn.net&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://aiprocon.csdn.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方PPT链接: &lt;a href=&quot;https://dow
+      
+    
+    </summary>
+    
+      <category term="AIProCon" scheme="https://blog.tdouguo.com/categories/AIProCon/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>QFramework 使用指南 (2020) - Res Kit（8）小结与补充</title>
+    <link href="https://blog.tdouguo.com/cn/qf_reskit_08.html"/>
+    <id>https://blog.tdouguo.com/cn/qf_reskit_08.html</id>
+    <published>2019-09-08T15:01:18.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<center><a href="https://tdou.cc/cn/qf_reskit_07.html" target="_blank" rel="noopener">上一阶段</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qframework.html" target="_blank" rel="noopener">回到总览</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center><p>在上一篇，我们了解了 从其他目录加载资源 的功能。</p><p>在这一片，我们做一个补充和总结。</p><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>补充分为两部分，一部分是代码生成，另一部分是关于自定义扩展资源类型的预告。</p><h3 id="代码生成"><a href="#代码生成" class="headerlink" title="代码生成"></a>代码生成</h3><p>Res Kit 是支持代码生成的，生成按钮的位置如下所示:<br><img src="http://file.liangxiegame.com/7a76c4e3-1baa-4366-9c8f-3335e311e499.png" alt="image.png"> </p><p>点击生成代码即可，生成后结果如下。<br><img src="http://file.liangxiegame.com/0ea13581-4960-4bc8-bbf1-b49a03455271.png" alt="image.png"> </p><p>生成了 QAssets 代码文件，代码内容如下:</p><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">namespace</span> <span class="title">QAssetBundle</span></span><br><span class="line">&#123;</span><br><span class="line">    </span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">class</span> <span class="title">Testobj_prefab</span></span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">public</span> <span class="keyword">const</span> <span class="keyword">string</span> BundleName = <span class="string">"testobj_prefab"</span>;</span><br><span class="line">        <span class="keyword">public</span> <span class="keyword">const</span> <span class="keyword">string</span> TESTOBJ = <span class="string">"testobj"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">class</span> <span class="title">Testsprite_png</span></span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">public</span> <span class="keyword">const</span> <span class="keyword">string</span> BundleName = <span class="string">"testsprite_png"</span>;</span><br><span class="line">        <span class="keyword">public</span> <span class="keyword">const</span> <span class="keyword">string</span> TESTSPRITE = <span class="string">"testsprite"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>生成了代码，那么在写资源加载的代码的时候就会爽的飞起，如下图示:<br><img src="http://file.liangxiegame.com/7b8ae854-aafe-49d8-9318-5f7d1190c8cc.png" alt="image.png"> </p><p>图中，给出了资源名字的提示。</p><p>这样就不容易出现字符串的拼写错误了。</p><h3 id="自定义资源类型"><a href="#自定义资源类型" class="headerlink" title="自定义资源类型"></a>自定义资源类型</h3><p>我们在上一篇了解了 从 Resources 或从网络中加载资源，实际上，只要掌握 Res Kit 的内部原理，就非常容易扩展自己的资源类型，可以定制资源的加载、卸载、加载路径、同步、异步的逻辑，甚至是加载、卸载的生命周期也可以定制。</p><p>当然这部分内容需要笔者花很多的经历去写，目前，我们只掌握已有的加载方式即可。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>我们花了 7 篇文章，从各个方面了解了 Res Kit 套件。</p><p>现在做一个小的总结:</p><ul><li>Res Kit<ul><li>同步加载资源 ResLoader.LoadSync</li><li>异步加载资源 ResLoader.Add2Load + LoadAsync</li><li>加载 AB 资源:<ul><li>ResLoader.LoadSync(assetName)</li><li>ResLoader.LoadSync(abName,assetName)</li><li>支持异步(LoadAsync)</li></ul></li><li>加载 Resources 资源:<ul><li>ResLoader.LoadSync(“resources://“ + assetPath);</li><li>支持异步(LoadAsync)   </li><li>加载网络图片<ul><li>ResLoader.Add2Load(“netimage:” + imageUrl,(succeed,res)=&gt;{});</li></ul></li><li>开发阶段建议使用 模拟模式</li><li>真机阶段建议使用 非模拟模式</li><li>模拟模式 资源工作流<ul><li>标记 AB</li><li>代码加载</li></ul></li><li>非模拟模式 资源工作流<ul><li>标记 AB（不推荐在非模拟模式下添加资源，建议在开发阶段添加资源）</li><li>打 AB包</li><li>代码加载</li></ul></li><li>ResMgr.Init 需要在项目启动时调用一次</li><li>ResLoader 建议每个需要加载的脚本，都申请一个。</li></ul></li></ul></li></ul><p>此篇的内容就这些。</p><ul><li>转载请注明地址：凉鞋的笔记：liangxiegame.com。</li><li>任何问题欢迎到 QQ 群：623597263 交流。</li></ul><center><a href="https://tdou.cc/cn/qf_reskit_07.html" target="_blank" rel="noopener">上一阶段</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qframework.html" target="_blank" rel="noopener">回到总览</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;
+&lt;a href=&quot;https://tdou.cc/cn/qf_reskit_07.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;上一阶段&lt;/a&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;a href=&quot;http
+      
+    
+    </summary>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/categories/QFramework/"/>
+    
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/tags/Unity/"/>
+    
+      <category term="Framework" scheme="https://blog.tdouguo.com/tags/Framework/"/>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/tags/QFramework/"/>
+    
+      <category term="QFramework.ResKit" scheme="https://blog.tdouguo.com/tags/QFramework-ResKit/"/>
+    
+      <category term="AssetBundle" scheme="https://blog.tdouguo.com/tags/AssetBundle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QFramework 总览 | QF使用指南、QF.ResKit</title>
+    <link href="https://blog.tdouguo.com/cn/qframework.html"/>
+    <id>https://blog.tdouguo.com/cn/qframework.html</id>
+    <published>2019-09-08T15:01:18.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>QFramework 内置模块如下:</strong></p><ul><li>1.Core</li><li>2.ResKit</li><li>3.UIKit</li><li>4.ScriptCollection</li><li>5.ShaderLib</li><li>6.EditorToolKit</li></ul><p><strong>下载:</strong></p><ul><li><p><strong><a href="http://master.liangxiegame.com/qf/intro" target="_blank" rel="noopener">QF.Package 下载</a></strong>: 只包含模块上传下载功能，不想使用 QF 内置模块的童鞋可以下载此包（内部使用了 UniRx 和 JsonDotNet,如果冲突,请删除项目内的)</p></li><li><p><strong><a href="http://master.liangxiegame.com/qf/intro" target="_blank" rel="noopener">QFramework V0.1.x 下载</a></strong>: 新版本的 QFramework，命名空间风格为 QF，除了命名空间 API 均兼容 旧版本 (如果是从 v0.0.x 升级到此版本，需要手动将原工程的 QFramework/Framework 目录删除)</p></li><li><p><strong><a href="http://master.liangxiegame.com/qf/intro" target="_blank" rel="noopener">QFramework v0.0.x 下载</a></strong>: 旧版本的 QFramework，命名空间为 QFramework</p></li></ul><p><strong>交流、教程:</strong></p><ul><li><strong><a href="http://master.liangxiegame.com/qf/community" target="_blank" rel="noopener">文档</a></strong></li><li><strong><a href="http://master.liangxiegame.com/qf/community" target="_blank" rel="noopener">社区</a></strong></li><li><strong><a href="//shang.qq.com/wpa/qunwpa?idkey=706b8eef0fff3fe4be9ce27c8702ad7d8cc1bceabe3b7c0430ec9559b3a9ce66">加入 QQ 群:623597263</a></strong></li><li><strong><a href="https://github.com/liangxiegame/QFramework" target="_blank" rel="noopener">Github</a></strong>  </li></ul><hr><h1 id="QFramework-使用指南-2020-ResKit-系列篇"><a href="#QFramework-使用指南-2020-ResKit-系列篇" class="headerlink" title="QFramework 使用指南 (2020) ResKit 系列篇"></a>QFramework 使用指南 (2020) ResKit 系列篇</h1><ul><li><a href="https://tdou.cc/cn/qf_reskit_01.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（1）概述与基本使用</a></li><li><a href="https://tdou.cc/cn/qf_reskit_02.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（2）模拟模式与非模拟模式</a></li><li><a href="https://tdou.cc/cn/qf_reskit_03.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（3）异步加载 与 异步队列加载</a></li><li><a href="https://tdou.cc/cn/qf_reskit_04.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（4）是否需要传入 AssetBundle 名字</a></li><li><a href="https://tdou.cc/cn/qf_reskit_05.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（5）加载 Sprite 或精灵图集</a></li><li><a href="https://tdou.cc/cn/qf_reskit_06.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（6）ResLoader 的推荐用法</a></li><li><a href="https://tdou.cc/cn/qf_reskit_07.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（7）从其他位置加载资源</a></li><li><a href="https://tdou.cc/cn/qf_reskit_08.html" target="_blank" rel="noopener">QFramework 使用指南 (2020) - Res Kit（8）小结与补充</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;QFramework 内置模块如下:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.Core&lt;/li&gt;
+&lt;li&gt;2.ResKit&lt;/li&gt;
+&lt;li&gt;3.UIKit&lt;/li&gt;
+&lt;li&gt;4.ScriptCollection&lt;/li&gt;
+&lt;li&gt;5.ShaderL
+      
+    
+    </summary>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/categories/QFramework/"/>
+    
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/tags/Unity/"/>
+    
+      <category term="Framework" scheme="https://blog.tdouguo.com/tags/Framework/"/>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/tags/QFramework/"/>
+    
+      <category term="QFramework.ResKit" scheme="https://blog.tdouguo.com/tags/QFramework-ResKit/"/>
+    
+      <category term="AssetBundle" scheme="https://blog.tdouguo.com/tags/AssetBundle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QFramework 使用指南 (2020) - Res Kit（7）从其他位置加载资源</title>
+    <link href="https://blog.tdouguo.com/cn/qf_reskit_07.html"/>
+    <id>https://blog.tdouguo.com/cn/qf_reskit_07.html</id>
+    <published>2019-09-08T15:01:16.000Z</published>
+    <updated>2020-08-01T15:59:28.223Z</updated>
+    
+    <content type="html"><![CDATA[<center><a href="https://tdou.cc/cn/qf_reskit_06.html" target="_blank" rel="noopener">上一阶段</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qframework.html" target="_blank" rel="noopener">回到总览</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qf_reskit_08.html" target="_blank" rel="noopener">下一阶段</a></center><p>在上一篇，我们简单探讨了 ResLoader 的设计思考。</p><p>在这一篇，我们学习如何从其他位置加载资源。</p><h2 id="从-Resources-中加载资源"><a href="#从-Resources-中加载资源" class="headerlink" title="从 Resources 中加载资源"></a>从 Resources 中加载资源</h2><p>从 Resources 中加载资源很简单，代码如下:</p><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> sprite = mResLoader.LoadSprite (<span class="string">"resources://TestSprite"</span>);</span><br><span class="line"><span class="keyword">var</span> spriteRenderer = GetComponent&lt;SpriteRenderer&gt;();</span><br><span class="line">spriteRenderer.sprite = sprite;</span><br></pre></td></tr></table></figure><p>只需要加上 resources:// 前缀即可。</p><h2 id="从网络中加载资源"><a href="#从网络中加载资源" class="headerlink" title="从网络中加载资源"></a>从网络中加载资源</h2><p>加载网络图片也很简单，只需要加上前缀: netimage: 即可，不过，从网络中加载资源是异步加载，所以需要使用异步加载的 API。</p><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> imageUrl = <span class="string">"http://file.liangxiegame.com/296b0166-bdea-47d5-ac87-4b55c91df16f.png"</span>;</span><br><span class="line"></span><br><span class="line">mResLoader.Add2Load (<span class="string">"netimage:"</span> + imageUrl,(succeed,res) =&gt; &#123;</span><br><span class="line">    <span class="keyword">if</span> (succeed) </span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">var</span> spriteRenderer = GetComponent&lt;SpriteRenderer&gt;();</span><br><span class="line">        <span class="keyword">var</span> texture2D = res.Asset <span class="keyword">as</span> Texture2D;</span><br><span class="line">        <span class="keyword">var</span> sprite = Sprite.Create(texture2D,<span class="keyword">new</span> Rect(<span class="number">0</span>,<span class="number">0</span>,texture2D.width,texture2D.height),Vector2.one * <span class="number">0.5f</span>);</span><br><span class="line">        spriteRenderer.sprite = sprite;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">mResLoader.LoadAsync();</span><br></pre></td></tr></table></figure><h2 id="从本地加载资源"><a href="#从本地加载资源" class="headerlink" title="从本地加载资源"></a>从本地加载资源</h2><p>从本地加载资源，实际上是从 Application.persistentDataPath  中加载资源。</p><p>使用方式很简单，只需要加上 localimage: 前缀即可。</p><p>因为用得比较少，所以这里不做介绍。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>本篇的内容中，加载网络图片和加载 Resources 资源使用得比较多。</p><p>尤其是从 Resources 中加载资源，非常适合作为过渡方案：当一些项目一开始用的是 Resources，后来接触了 QF 的 Res Kit，这种情况下，可以先使用 Res Kit 加载 Resources 资源你的方式。</p><p>此篇的内容就这些。</p><ul><li>转载请注明地址：凉鞋的笔记：liangxiegame.com。</li><li>任何问题欢迎到 QQ 群：623597263 交流。</li></ul><center><a href="https://tdou.cc/cn/qf_reskit_06.html" target="_blank" rel="noopener">上一阶段</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qframework.html" target="_blank" rel="noopener">回到总览</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tdou.cc/cn/qf_reskit_08.html" target="_blank" rel="noopener">下一阶段</a></center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;
+&lt;a href=&quot;https://tdou.cc/cn/qf_reskit_06.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;上一阶段&lt;/a&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;a href=&quot;http
+      
+    
+    </summary>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/categories/QFramework/"/>
+    
+    
+      <category term="Unity" scheme="https://blog.tdouguo.com/tags/Unity/"/>
+    
+      <category term="Framework" scheme="https://blog.tdouguo.com/tags/Framework/"/>
+    
+      <category term="QFramework" scheme="https://blog.tdouguo.com/tags/QFramework/"/>
+    
+      <category term="QFramework.ResKit" scheme="https://blog.tdouguo.com/tags/QFramework-ResKit/"/>
+    
+      <category term="AssetBundle" scheme="https://blog.tdouguo.com/tags/AssetBundle/"/>
+    
+  </entry>
+  
+</feed>
