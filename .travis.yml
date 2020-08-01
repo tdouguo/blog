@@ -54,6 +54,6 @@ branches:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - me@tdouplus.com
+    - tdouguo@163.com
   on_success: change
   on_failure: always
