@@ -19,6 +19,9 @@
 
 ## [站点日志](https://tdou.cc/changelog.html)
 
+- 2022.4.11
+	- 修改图片链接格式 使用 https://cdn.jsdelivr.net/gh/tdouguo/blog/static/
+
 - 2020.2.4
     - 添加Firebase-sdk
 

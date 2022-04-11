@@ -106,7 +106,7 @@ disqus: tdou # DISQUS ID
 baidu_push: true
 
 location: Beijing, China 
-email: me@tdou.io
+email: tdouguo@gmail.com
 baidusitemap: 
 path: baidusitemap.xml
 
@@ -124,11 +124,11 @@ donate:
   enable: true
   message: 欣赏此文？求鼓励，求支持！
   btc: 3JfBFrELvdXNVVhT2MXvkZNsQAuy12WfDR
-  btc_url: http://tdou-cc.tdouguo.com/btc.jpg
-  ali_url: http://tdou-cc.tdouguo.com/pay_ali.jpg
-  wechat_url: http://tdou-cc.tdouguo.com/pay_wx.jpg
+  btc_url: https://cdn.jsdelivr.net/gh/tdouguo/blog/static/btc.jpg
+  ali_url: https://cdn.jsdelivr.net/gh/tdouguo/blog/static/pay_ali.jpg
+  wechat_url: https://cdn.jsdelivr.net/gh/tdouguo/blog/static/pay_wx.jpg
 
-avatar: http://tdou-cc.tdouguo.com/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/tdouguo/blog/static/avatar.jpg
 social:
   github: https://github.com/tdouguo
   weibo: https://www.weibo.com/tdouguo

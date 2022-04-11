@@ -31,7 +31,7 @@ categories:
 # 问题以及解决方案
 
 找到问题后 点击重新申请 显示的以下截图
-[!](http://tdou-cc.tdouguo.com/hexo/coding_err.jpg)
+[!](https://cdn.jsdelivr.net/gh/tdouguo/blog/static/hexo/coding_err.jpg)
 仔细检查后发现还不行 google 一番后+(邮件联系coding技术支持)发现了原理
 
 因第一次部署 dns还未存在缓存 所以coding默认认为他那里唯一解析直接同意证书申请了
@@ -40,11 +40,11 @@ categories:
 
 
 所以他获取证书时候不知道哪个是主哪个为辅 所以需要临时把境外解析暂停解析 
-[!](http://tdou-cc.tdouguo.com/hexo/ali_config.jpg)
+[!](https://cdn.jsdelivr.net/gh/tdouguo/blog/static/hexo/ali_config.jpg)
 
 百度大概需要5分钟(实测 2 3s把 ) 暂停后重新申请即可~~
 
-[!](http://tdou-cc.tdouguo.com/hexo/coding_ok.jpg)
+[!](https://cdn.jsdelivr.net/gh/tdouguo/blog/static/hexo/coding_ok.jpg)
 
 
 ---
